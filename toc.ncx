@@ -1,0 +1,5204 @@
+<?xml version="1.0" encoding="UTF-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="spa">
+  <head>
+    <meta content="cat16" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Catecismo de la Iglesia Católica</text>
+  </docTitle>
+  <navMap>
+<navPoint id="navPoint-1" playOrder="1">
+  <navLabel>
+    <text>ÍNDICE ABREVIADO</text>
+  </navLabel>
+  <content src="contents-breve.xhtml"/>
+</navPoint>
+<navPoint id="navPoint-2" playOrder="2">
+  <navLabel>
+    <text>ÍNDICE GENERAL</text>
+  </navLabel>
+  <content src="contents.xhtml"/>
+</navPoint>
+<navPoint id="navPoint-3" playOrder="3">
+  <navLabel>
+    <text>ÍNDICE TEMÁTICO</text>
+  </navLabel>
+  <content src="indice-a.html"/>
+</navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>PRÓLOGO</text>
+      </navLabel>
+      <content src="p0-prologue_sp.html"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>I. La vida del hombre: conocer y amar a Dios</text>
+          </navLabel>
+          <content src="p0-prologue_sp.html#toc_p1"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>II. Transmitir la fe: la catequesis</text>
+          </navLabel>
+          <content src="p0-prologue_sp.html#toc_p2"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>III. Fin y destinatarios de este Catecismo</text>
+          </navLabel>
+          <content src="p0-prologue_sp.html#toc_p3"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>IV. La estructura del “Catecismo de la Iglesia Católica”</text>
+          </navLabel>
+          <content src="p0-prologue_sp.html#toc_p4"/>
+        </navPoint>
+        <navPoint id="navPoint-9" playOrder="9">
+          <navLabel>
+            <text>V. Indicaciones prácticas para el uso de este Catecismo</text>
+          </navLabel>
+          <content src="p0-prologue_sp.html#toc_p5"/>
+        </navPoint>
+        <navPoint id="navPoint-10" playOrder="10">
+          <navLabel>
+            <text>VI. Las necesarias adaptaciones</text>
+          </navLabel>
+          <content src="p0-prologue_sp.html#toc_p6"/>
+        </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>PRIMERA PARTE: LA PROFESIÓN DE LA FE</text>
+      </navLabel>
+      <content src="p1s1c1_sp.html"/>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>  PRIMERA SECCIÓN: «CREO»-«CREEMOS»</text>
+      </navLabel>
+      <content src="p1s1c1_sp.html#toc_3"/>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: EL HOMBRE ES “CAPAZ” DE DIOS</text>
+        </navLabel>
+        <content src="p1s1c1_sp.html#toc_4"/>
+        <navPoint id="navPoint-14" playOrder="14">
+          <navLabel>
+            <text>I. El deseo de Dios</text>
+          </navLabel>
+          <content src="p1s1c1_sp.html#toc_5"/>
+        </navPoint>
+        <navPoint id="navPoint-15" playOrder="15">
+          <navLabel>
+            <text>II. Las vías de acceso al conocimiento de Dios</text>
+          </navLabel>
+          <content src="p1s1c1_sp.html#toc_6"/>
+        </navPoint>
+        <navPoint id="navPoint-16" playOrder="16">
+          <navLabel>
+            <text>III. El conocimiento de Dios según la Iglesia</text>
+          </navLabel>
+          <content src="p1s1c1_sp.html#toc_7"/>
+        </navPoint>
+        <navPoint id="navPoint-17" playOrder="17">
+          <navLabel>
+            <text>IV. ¿Cómo hablar de Dios?</text>
+          </navLabel>
+          <content src="p1s1c1_sp.html#toc_8"/>
+        </navPoint>
+        <navPoint id="navPoint-18" playOrder="18">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s1c1_sp.html#toc_9"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: DIOS AL ENCUENTRO DEL HOMBRE</text>
+        </navLabel>
+        <content src="p1s1c2a1_sp.html"/>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>ARTÍCULO 1: LA REVELACIÓN DE DIOS</text>
+        </navLabel>
+        <content src="p1s1c2a1_sp.html#toc_11"/>
+        <navPoint id="navPoint-21" playOrder="21">
+          <navLabel>
+            <text>I. Dios revela su designio amoroso</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_12"/>
+        </navPoint>
+        <navPoint id="navPoint-22" playOrder="22">
+          <navLabel>
+            <text>II. Las etapas de la revelación</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_13"/>
+        </navPoint>
+        <navPoint id="navPoint-23" playOrder="23">
+          <navLabel>
+            <text>Desde el origen, Dios se da a conocer</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_14"/>
+        </navPoint>
+        <navPoint id="navPoint-24" playOrder="24">
+          <navLabel>
+            <text>La alianza con Noé</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_15"/>
+        </navPoint>
+        <navPoint id="navPoint-25" playOrder="25">
+          <navLabel>
+            <text>Dios elige a Abraham</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_16"/>
+        </navPoint>
+        <navPoint id="navPoint-26" playOrder="26">
+          <navLabel>
+            <text>Dios forma a su pueblo Israel</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_17"/>
+        </navPoint>
+        <navPoint id="navPoint-27" playOrder="27">
+          <navLabel>
+            <text>III. Cristo Jesús, «mediador y plenitud de toda la Revelación» (DV 2)</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_18"/>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Dios ha dicho todo en su Verbo</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_19"/>
+        </navPoint>
+        <navPoint id="navPoint-29" playOrder="29">
+          <navLabel>
+            <text>No habrá otra revelación</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_20"/>
+        </navPoint>
+        <navPoint id="navPoint-30" playOrder="30">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s1c2a1_sp.html#toc_21"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>ARTÍCULO 2: LA TRANSMISIÓN DE LA REVELACIÓN DIVINA</text>
+        </navLabel>
+        <content src="p1s1c2a2_sp.html"/>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>I. La Tradición apostólica</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_23"/>
+        </navPoint>
+        <navPoint id="navPoint-33" playOrder="33">
+          <navLabel>
+            <text>La predicación apostólica…</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_24"/>
+        </navPoint>
+        <navPoint id="navPoint-34" playOrder="34">
+          <navLabel>
+            <text>…continuada en la sucesión apostólica</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_25"/>
+        </navPoint>
+        <navPoint id="navPoint-35" playOrder="35">
+          <navLabel>
+            <text>II. La relación entre la Tradición y la Sagrada Escritura</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_26"/>
+        </navPoint>
+        <navPoint id="navPoint-36" playOrder="36">
+          <navLabel>
+            <text>Una fuente común…</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_27"/>
+        </navPoint>
+        <navPoint id="navPoint-37" playOrder="37">
+          <navLabel>
+            <text>…dos modos distintos de transmisión</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_28"/>
+        </navPoint>
+        <navPoint id="navPoint-38" playOrder="38">
+          <navLabel>
+            <text>Tradición apostólica y tradiciones eclesiales</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_29"/>
+        </navPoint>
+        <navPoint id="navPoint-39" playOrder="39">
+          <navLabel>
+            <text>III. La interpretación del depósito de la fe</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_30"/>
+        </navPoint>
+        <navPoint id="navPoint-40" playOrder="40">
+          <navLabel>
+            <text>El depósito de la fe confiado a la totalidad de la Iglesia</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_31"/>
+        </navPoint>
+        <navPoint id="navPoint-41" playOrder="41">
+          <navLabel>
+            <text>El Magisterio de la Iglesia</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_32"/>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text>Los dogmas de la fe</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_33"/>
+        </navPoint>
+        <navPoint id="navPoint-43" playOrder="43">
+          <navLabel>
+            <text>El sentido sobrenatural de la fe</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_34"/>
+        </navPoint>
+        <navPoint id="navPoint-44" playOrder="44">
+          <navLabel>
+            <text>El crecimiento en la inteligencia de la fe</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_35"/>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s1c2a2_sp.html#toc_36"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>ARTÍCULO 3: LA SAGRADA ESCRITURA</text>
+        </navLabel>
+        <content src="p1s1c2a3_sp.html"/>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>I. Cristo, palabra única de la Sagrada Escritura</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_38"/>
+        </navPoint>
+        <navPoint id="navPoint-48" playOrder="48">
+          <navLabel>
+            <text>II. Inspiración y verdad de la Sagrada Escritura</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_39"/>
+        </navPoint>
+        <navPoint id="navPoint-49" playOrder="49">
+          <navLabel>
+            <text>III. El Espíritu Santo, intérprete de la Escritura</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_40"/>
+        </navPoint>
+        <navPoint id="navPoint-50" playOrder="50">
+          <navLabel>
+            <text>El sentido de la Escritura</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_41"/>
+        </navPoint>
+        <navPoint id="navPoint-51" playOrder="51">
+          <navLabel>
+            <text>IV. El canon de las Escrituras</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_42"/>
+        </navPoint>
+        <navPoint id="navPoint-52" playOrder="52">
+          <navLabel>
+            <text>El Antiguo Testamento</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_43"/>
+        </navPoint>
+        <navPoint id="navPoint-53" playOrder="53">
+          <navLabel>
+            <text>El Nuevo Testamento</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_44"/>
+        </navPoint>
+        <navPoint id="navPoint-54" playOrder="54">
+          <navLabel>
+            <text>La unidad del Antiguo y del Nuevo Testamento</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_45"/>
+        </navPoint>
+        <navPoint id="navPoint-55" playOrder="55">
+          <navLabel>
+            <text>V. La Sagrada Escritura en la vida de la Iglesia</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_46"/>
+        </navPoint>
+        <navPoint id="navPoint-56" playOrder="56">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s1c2a3_sp.html#toc_47"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>    CAPÍTULO TERCERO: LA RESPUESTA DEL HOMBRE A DIOS</text>
+        </navLabel>
+        <content src="p1s1c3a1_sp.html"/>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>ARTÍCULO 1: CREO</text>
+        </navLabel>
+        <content src="p1s1c3a1_sp.html#toc_49"/>
+        <navPoint id="navPoint-59" playOrder="59">
+          <navLabel>
+            <text>I. La obediencia de la fe</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_50"/>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>Abraham, «padre de todos los creyentes»</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_51"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>María : «Dichosa la que ha creído»</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_52"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>II. “Yo sé en quién tengo puesta mi fe” (2 Tm 1,12)</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_53"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>Creer solo en Dios</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_54"/>
+        </navPoint>
+        <navPoint id="navPoint-64" playOrder="64">
+          <navLabel>
+            <text>Creer en Jesucristo, el Hijo de Dios</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_55"/>
+        </navPoint>
+        <navPoint id="navPoint-65" playOrder="65">
+          <navLabel>
+            <text>Creer en el Espíritu Santo</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_56"/>
+        </navPoint>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>III. Las características de la fe</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_57"/>
+        </navPoint>
+        <navPoint id="navPoint-67" playOrder="67">
+          <navLabel>
+            <text>La fe es una gracia</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_58"/>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>La fe es un acto humano</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_59"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>La fe y la inteligencia</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_60"/>
+        </navPoint>
+        <navPoint id="navPoint-70" playOrder="70">
+          <navLabel>
+            <text>La libertad de la fe</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_61"/>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>La necesidad de la fe</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_62"/>
+        </navPoint>
+        <navPoint id="navPoint-72" playOrder="72">
+          <navLabel>
+            <text>La perseverancia en la fe</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_63"/>
+        </navPoint>
+        <navPoint id="navPoint-73" playOrder="73">
+          <navLabel>
+            <text>La fe, comienzo de la vida eterna</text>
+          </navLabel>
+          <content src="p1s1c3a1_sp.html#toc_64"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>ARTÍCULO 2: CREEMOS</text>
+        </navLabel>
+        <content src="p1s1c3a2_sp.html"/>
+        <navPoint id="navPoint-75" playOrder="75">
+          <navLabel>
+            <text>I. “Mira, Señor, la fe de tu Iglesia”</text>
+          </navLabel>
+          <content src="p1s1c3a2_sp.html#toc_66"/>
+        </navPoint>
+        <navPoint id="navPoint-76" playOrder="76">
+          <navLabel>
+            <text>II. El lenguaje de la fe</text>
+          </navLabel>
+          <content src="p1s1c3a2_sp.html#toc_67"/>
+        </navPoint>
+        <navPoint id="navPoint-77" playOrder="77">
+          <navLabel>
+            <text>III. Una sola fe</text>
+          </navLabel>
+          <content src="p1s1c3a2_sp.html#toc_68"/>
+        </navPoint>
+        <navPoint id="navPoint-78" playOrder="78">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s1c3a2_sp.html#toc_69"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-79" playOrder="79">
+      <navLabel>
+        <text>  SEGUNDA SECCIÓN: LA PROFESIÓN DE LA FE CRISTIANA</text>
+      </navLabel>
+      <content src="p1s2_sp.html"/>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>El Credo</text>
+          </navLabel>
+          <content src="p1s2_sp.html#toc_70"/>
+        </navPoint>
+        <navPoint id="navPoint-81" playOrder="81">
+          <navLabel>
+            <text>LOS SÍMBOLOS DE LA FE</text>
+          </navLabel>
+          <content src="p1s2_sp.html#toc_72"/>
+        </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: CREO EN DIOS PADRE</text>
+        </navLabel>
+        <content src="p1s2c1p1_sp.html"/>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>ARTÍCULO 1: «CREO EN DIOS, PADRE TODOPODEROSO, CREADOR DEL CIELO Y DE LA TIERRA»</text>
+        </navLabel>
+        <content src="p1s2c1p1_sp.html#toc_74"/>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text>PÁRRAFO 1: CREO EN DIOS</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_75"/>
+        </navPoint>
+        <navPoint id="navPoint-85" playOrder="85">
+          <navLabel>
+            <text>I. «Creo en un solo Dios»</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_76"/>
+        </navPoint>
+        <navPoint id="navPoint-86" playOrder="86">
+          <navLabel>
+            <text>II. Dios revela su Nombre</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_77"/>
+        </navPoint>
+        <navPoint id="navPoint-87" playOrder="87">
+          <navLabel>
+            <text>El Dios vivo</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_78"/>
+        </navPoint>
+        <navPoint id="navPoint-88" playOrder="88">
+          <navLabel>
+            <text>“Yo soy el que soy”</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_79"/>
+        </navPoint>
+        <navPoint id="navPoint-89" playOrder="89">
+          <navLabel>
+            <text>“Dios misericordioso y clemente”</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_80"/>
+        </navPoint>
+        <navPoint id="navPoint-90" playOrder="90">
+          <navLabel>
+            <text>Solo Dios ES</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_81"/>
+        </navPoint>
+        <navPoint id="navPoint-91" playOrder="91">
+          <navLabel>
+            <text>III. Dios, “El que es”, es verdad y amor</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_82"/>
+        </navPoint>
+        <navPoint id="navPoint-92" playOrder="92">
+          <navLabel>
+            <text>Dios es la Verdad</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_83"/>
+        </navPoint>
+        <navPoint id="navPoint-93" playOrder="93">
+          <navLabel>
+            <text>Dios es Amor</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_84"/>
+        </navPoint>
+        <navPoint id="navPoint-94" playOrder="94">
+          <navLabel>
+            <text>IV. Consecuencias de la fe en el Dios único</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_85"/>
+        </navPoint>
+        <navPoint id="navPoint-95" playOrder="95">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p1_sp.html#toc_86"/>
+        </navPoint>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>PÁRRAFO 2: EL PADRE</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-97" playOrder="97">
+          <navLabel>
+            <text>I. “En el nombre del Padre y del Hijo y del Espíritu Santo”</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_88"/>
+        </navPoint>
+        <navPoint id="navPoint-98" playOrder="98">
+          <navLabel>
+            <text>II. La revelación de Dios como Trinidad</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_89"/>
+        </navPoint>
+        <navPoint id="navPoint-99" playOrder="99">
+          <navLabel>
+            <text>El Padre revelado por el Hijo</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_90"/>
+        </navPoint>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>El Padre y el Hijo revelados por el Espíritu</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_91"/>
+        </navPoint>
+        <navPoint id="navPoint-101" playOrder="101">
+          <navLabel>
+            <text>III. La Santísima Trinidad en la doctrina de la fe</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_92"/>
+        </navPoint>
+        <navPoint id="navPoint-102" playOrder="102">
+          <navLabel>
+            <text>La formación del dogma trinitario</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_93"/>
+        </navPoint>
+        <navPoint id="navPoint-103" playOrder="103">
+          <navLabel>
+            <text>El dogma de la Santísima Trinidad</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_94"/>
+        </navPoint>
+        <navPoint id="navPoint-104" playOrder="104">
+          <navLabel>
+            <text>IV. Las obras divinas y las misiones trinitarias</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_95"/>
+        </navPoint>
+        <navPoint id="navPoint-105" playOrder="105">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p2_sp.html#toc_96"/>
+        </navPoint>
+        <navPoint id="navPoint-106" playOrder="106">
+          <navLabel>
+            <text>PÁRRAFO 3: EL TODOPODEROSO</text>
+          </navLabel>
+          <content src="p1s2c1p3_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-107" playOrder="107">
+          <navLabel>
+            <text>“Todo cuanto le place, lo realiza” (Sal 115, 3)</text>
+          </navLabel>
+          <content src="p1s2c1p3_sp.html#toc_98"/>
+        </navPoint>
+        <navPoint id="navPoint-108" playOrder="108">
+          <navLabel>
+            <text>“Te compadeces de todos porque lo puedes todo” (Sb 11, 23)</text>
+          </navLabel>
+          <content src="p1s2c1p3_sp.html#toc_99"/>
+        </navPoint>
+        <navPoint id="navPoint-109" playOrder="109">
+          <navLabel>
+            <text>El misterio de la aparente impotencia de Dios</text>
+          </navLabel>
+          <content src="p1s2c1p3_sp.html#toc_100"/>
+        </navPoint>
+        <navPoint id="navPoint-110" playOrder="110">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p3_sp.html#toc_101"/>
+        </navPoint>
+        <navPoint id="navPoint-111" playOrder="111">
+          <navLabel>
+            <text>PÁRRAFO 4: EL CREADOR</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-112" playOrder="112">
+          <navLabel>
+            <text>I. La catequesis sobre la creación</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_103"/>
+        </navPoint>
+        <navPoint id="navPoint-113" playOrder="113">
+          <navLabel>
+            <text>II. La creación: obra de la Santísima Trinidad</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_104"/>
+        </navPoint>
+        <navPoint id="navPoint-114" playOrder="114">
+          <navLabel>
+            <text>III. “El mundo ha sido creado para la gloria de Dios”</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_105"/>
+        </navPoint>
+        <navPoint id="navPoint-115" playOrder="115">
+          <navLabel>
+            <text>IV. El misterio de la creación</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_106"/>
+        </navPoint>
+        <navPoint id="navPoint-116" playOrder="116">
+          <navLabel>
+            <text>Dios crea por sabiduría y por amor</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_107"/>
+        </navPoint>
+        <navPoint id="navPoint-117" playOrder="117">
+          <navLabel>
+            <text>Dios crea “de la nada”</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_108"/>
+        </navPoint>
+        <navPoint id="navPoint-118" playOrder="118">
+          <navLabel>
+            <text>Dios crea un mundo ordenado y bueno</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_109"/>
+        </navPoint>
+        <navPoint id="navPoint-119" playOrder="119">
+          <navLabel>
+            <text>Dios transciende la creación y está presente en ella</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_110"/>
+        </navPoint>
+        <navPoint id="navPoint-120" playOrder="120">
+          <navLabel>
+            <text>Dios mantiene y conduce la creación</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_111"/>
+        </navPoint>
+        <navPoint id="navPoint-121" playOrder="121">
+          <navLabel>
+            <text>V. Dios realiza su designio: la divina providencia</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_112"/>
+        </navPoint>
+        <navPoint id="navPoint-122" playOrder="122">
+          <navLabel>
+            <text>La providencia y las causas segundas</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_113"/>
+        </navPoint>
+        <navPoint id="navPoint-123" playOrder="123">
+          <navLabel>
+            <text>La providencia y el escándalo del mal</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_114"/>
+        </navPoint>
+        <navPoint id="navPoint-124" playOrder="124">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p4_sp.html#toc_115"/>
+        </navPoint>
+        <navPoint id="navPoint-125" playOrder="125">
+          <navLabel>
+            <text>PÁRRAFO 5: EL CIELO Y LA TIERRA</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-126" playOrder="126">
+          <navLabel>
+            <text>I. Los ángeles</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_117"/>
+        </navPoint>
+        <navPoint id="navPoint-127" playOrder="127">
+          <navLabel>
+            <text>La existencia de los ángeles, verdad de fe</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_118"/>
+        </navPoint>
+        <navPoint id="navPoint-128" playOrder="128">
+          <navLabel>
+            <text>Quiénes son los ángeles</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_119"/>
+        </navPoint>
+        <navPoint id="navPoint-129" playOrder="129">
+          <navLabel>
+            <text>Cristo “con todos sus ángeles”</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_120"/>
+        </navPoint>
+        <navPoint id="navPoint-130" playOrder="130">
+          <navLabel>
+            <text>Los ángeles en la vida de la Iglesia</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_121"/>
+        </navPoint>
+        <navPoint id="navPoint-131" playOrder="131">
+          <navLabel>
+            <text>II. El mundo visible</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_122"/>
+        </navPoint>
+        <navPoint id="navPoint-132" playOrder="132">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p5_sp.html#toc_123"/>
+        </navPoint>
+        <navPoint id="navPoint-133" playOrder="133">
+          <navLabel>
+            <text>PÁRRAFO 6: EL HOMBRE</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-134" playOrder="134">
+          <navLabel>
+            <text>I. “A imagen de Dios”</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_125"/>
+        </navPoint>
+        <navPoint id="navPoint-135" playOrder="135">
+          <navLabel>
+            <text>II. “Corpore et anima unus”</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_126"/>
+        </navPoint>
+        <navPoint id="navPoint-136" playOrder="136">
+          <navLabel>
+            <text>III. “Hombre y mujer los creó”</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_127"/>
+        </navPoint>
+        <navPoint id="navPoint-137" playOrder="137">
+          <navLabel>
+            <text>Igualdad y diferencia queridas por Dios</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_128"/>
+        </navPoint>
+        <navPoint id="navPoint-138" playOrder="138">
+          <navLabel>
+            <text>“El uno para el otro”, “una unidad de dos”</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_129"/>
+        </navPoint>
+        <navPoint id="navPoint-139" playOrder="139">
+          <navLabel>
+            <text>IV. El hombre en el paraíso</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_130"/>
+        </navPoint>
+        <navPoint id="navPoint-140" playOrder="140">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p6_sp.html#toc_131"/>
+        </navPoint>
+        <navPoint id="navPoint-141" playOrder="141">
+          <navLabel>
+            <text>PÁRRAFO 7: LA CAÍDA</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-142" playOrder="142">
+          <navLabel>
+            <text>I. Donde abundó el pecado, sobreabundó la gracia</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_133"/>
+        </navPoint>
+        <navPoint id="navPoint-143" playOrder="143">
+          <navLabel>
+            <text>La realidad del pecado</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_134"/>
+        </navPoint>
+        <navPoint id="navPoint-144" playOrder="144">
+          <navLabel>
+            <text>El pecado original: una verdad esencial de la fe</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_135"/>
+        </navPoint>
+        <navPoint id="navPoint-145" playOrder="145">
+          <navLabel>
+            <text>Para leer el relato de la caída</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_136"/>
+        </navPoint>
+        <navPoint id="navPoint-146" playOrder="146">
+          <navLabel>
+            <text>II. La caída de los ángeles</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_137"/>
+        </navPoint>
+        <navPoint id="navPoint-147" playOrder="147">
+          <navLabel>
+            <text>III. El pecado original</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_138"/>
+        </navPoint>
+        <navPoint id="navPoint-148" playOrder="148">
+          <navLabel>
+            <text>La prueba de la libertad</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_139"/>
+        </navPoint>
+        <navPoint id="navPoint-149" playOrder="149">
+          <navLabel>
+            <text>El primer pecado del hombre</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_140"/>
+        </navPoint>
+        <navPoint id="navPoint-150" playOrder="150">
+          <navLabel>
+            <text>Consecuencias del pecado de Adán para la humanidad</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_141"/>
+        </navPoint>
+        <navPoint id="navPoint-151" playOrder="151">
+          <navLabel>
+            <text>Un duro combate…</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_142"/>
+        </navPoint>
+        <navPoint id="navPoint-152" playOrder="152">
+          <navLabel>
+            <text>IV. “No lo abandonaste al poder de la muerte”</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_143"/>
+        </navPoint>
+        <navPoint id="navPoint-153" playOrder="153">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c1p7_sp.html#toc_144"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+      <navPoint id="navPoint-154" playOrder="154">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: CREO EN JESUCRISTO, HIJO ÚNICO DE DIOS</text>
+        </navLabel>
+        <content src="p1s2c2_sp.html"/>
+        <navPoint id="navPoint-155" playOrder="155">
+          <navLabel>
+            <text>La Buena Nueva: Dios ha enviado a su Hijo</text>
+          </navLabel>
+          <content src="p1s2c2_sp.html#toc_146"/>
+        </navPoint>
+        <navPoint id="navPoint-156" playOrder="156">
+          <navLabel>
+            <text>“Anunciar… la inescrutable riqueza de Cristo” (Ef 3, 8)</text>
+          </navLabel>
+          <content src="p1s2c2_sp.html#toc_147"/>
+        </navPoint>
+        <navPoint id="navPoint-157" playOrder="157">
+          <navLabel>
+            <text>En el centro de la catequesis: Cristo</text>
+          </navLabel>
+          <content src="p1s2c2_sp.html#toc_148"/>
+        </navPoint>
+      <navPoint id="navPoint-158" playOrder="158">
+        <navLabel>
+          <text>ARTÍCULO 2: “Y EN JESUCRISTO, SU ÚNICO HIJO, NUESTRO SEÑOR”</text>
+        </navLabel>
+        <content src="p1s2c2a2_sp.html"/>
+        <navPoint id="navPoint-159" playOrder="159">
+          <navLabel>
+            <text>I. Jesús</text>
+          </navLabel>
+          <content src="p1s2c2a2_sp.html#toc_150"/>
+        </navPoint>
+        <navPoint id="navPoint-160" playOrder="160">
+          <navLabel>
+            <text>II. Cristo</text>
+          </navLabel>
+          <content src="p1s2c2a2_sp.html#toc_151"/>
+        </navPoint>
+        <navPoint id="navPoint-161" playOrder="161">
+          <navLabel>
+            <text>III. Hijo único de Dios</text>
+          </navLabel>
+          <content src="p1s2c2a2_sp.html#toc_152"/>
+        </navPoint>
+        <navPoint id="navPoint-162" playOrder="162">
+          <navLabel>
+            <text>IV. Señor</text>
+          </navLabel>
+          <content src="p1s2c2a2_sp.html#toc_153"/>
+        </navPoint>
+        <navPoint id="navPoint-163" playOrder="163">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c2a2_sp.html#toc_154"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-164" playOrder="164">
+        <navLabel>
+          <text>ARTÍCULO 3: “JESUCRISTO FUE CONCEBIDO POR OBRA Y GRACIADEL ESPÍRITU SANTO Y NACIÓ DE SANTA MARÍA VIRGEN”</text>
+        </navLabel>
+        <content src="p1s2a3p1_sp.html"/>
+        <navPoint id="navPoint-165" playOrder="165">
+          <navLabel>
+            <text>PÁRRAFO 1: EL HIJO DE DIOS SE HIZO HOMBRE</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_156"/>
+        </navPoint>
+        <navPoint id="navPoint-166" playOrder="166">
+          <navLabel>
+            <text>I. Por qué el Verbo se hizo carne</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_157"/>
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167">
+          <navLabel>
+            <text>II. La Encarnación</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_158"/>
+        </navPoint>
+        <navPoint id="navPoint-168" playOrder="168">
+          <navLabel>
+            <text>III. Verdadero Dios y verdadero hombre</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_159"/>
+        </navPoint>
+        <navPoint id="navPoint-169" playOrder="169">
+          <navLabel>
+            <text>IV. Cómo es hombre el Hijo de Dios</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_160"/>
+        </navPoint>
+        <navPoint id="navPoint-170" playOrder="170">
+          <navLabel>
+            <text>El alma y el conocimiento humano de Cristo</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_161"/>
+        </navPoint>
+        <navPoint id="navPoint-171" playOrder="171">
+          <navLabel>
+            <text>La voluntad humana de Cristo</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_162"/>
+        </navPoint>
+        <navPoint id="navPoint-172" playOrder="172">
+          <navLabel>
+            <text>El verdadero cuerpo de Cristo</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_163"/>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+          <navLabel>
+            <text>El Corazón del Verbo encarnado</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_164"/>
+        </navPoint>
+        <navPoint id="navPoint-174" playOrder="174">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2a3p1_sp.html#toc_165"/>
+        </navPoint>
+        <navPoint id="navPoint-175" playOrder="175">
+          <navLabel>
+            <text>PÁRRAFO 2: “…CONCEBIDO POR OBRA Y GRACIA DEL ESPÍRITU SANTO, NACIÓ DE SANTA MARÍA VIRGEN”</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-176" playOrder="176">
+          <navLabel>
+            <text>I. Concebido por obra y gracia del Espíritu Santo…</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_167"/>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>II. …nació de la Virgen María</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_168"/>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>La predestinación de María</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_169"/>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>La Inmaculada Concepción</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_170"/>
+        </navPoint>
+        <navPoint id="navPoint-180" playOrder="180">
+          <navLabel>
+            <text>“Hágase en mí según tu palabra…”</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_171"/>
+        </navPoint>
+        <navPoint id="navPoint-181" playOrder="181">
+          <navLabel>
+            <text>La maternidad divina de María</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_172"/>
+        </navPoint>
+        <navPoint id="navPoint-182" playOrder="182">
+          <navLabel>
+            <text>La virginidad de María</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_173"/>
+        </navPoint>
+        <navPoint id="navPoint-183" playOrder="183">
+          <navLabel>
+            <text>María, la “siempre Virgen”</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_174"/>
+        </navPoint>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>La maternidad virginal de María en el designio de Dios</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_175"/>
+        </navPoint>
+        <navPoint id="navPoint-185" playOrder="185">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2a3p2_sp.html#toc_176"/>
+        </navPoint>
+        <navPoint id="navPoint-186" playOrder="186">
+          <navLabel>
+            <text>PÁRRAFO 3: LOS MISTERIOS DE LA VIDA DE CRISTO</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>I. Toda la vida de Cristo es misterio</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_178"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>Los rasgos comunes en los Misterios de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_179"/>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>Nuestra comunión en los misterios de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_180"/>
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>II. Los misterios de la infancia y de la vida oculta de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_181"/>
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+          <navLabel>
+            <text>Los preparativos</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_182"/>
+        </navPoint>
+        <navPoint id="navPoint-192" playOrder="192">
+          <navLabel>
+            <text>El misterio de Navidad</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_183"/>
+        </navPoint>
+        <navPoint id="navPoint-193" playOrder="193">
+          <navLabel>
+            <text>Los misterios de la infancia de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_184"/>
+        </navPoint>
+        <navPoint id="navPoint-194" playOrder="194">
+          <navLabel>
+            <text>Los misterios de la vida oculta de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_185"/>
+        </navPoint>
+        <navPoint id="navPoint-195" playOrder="195">
+          <navLabel>
+            <text>III. Los misterios de la vida pública de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_186"/>
+        </navPoint>
+        <navPoint id="navPoint-196" playOrder="196">
+          <navLabel>
+            <text>El Bautismo de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_187"/>
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+          <navLabel>
+            <text>Las tentaciones de Jesús</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_188"/>
+        </navPoint>
+        <navPoint id="navPoint-198" playOrder="198">
+          <navLabel>
+            <text>“El Reino de Dios está cerca”</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_189"/>
+        </navPoint>
+        <navPoint id="navPoint-199" playOrder="199">
+          <navLabel>
+            <text>El anuncio del Reino de Dios</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_190"/>
+        </navPoint>
+        <navPoint id="navPoint-200" playOrder="200">
+          <navLabel>
+            <text>Los signos del Reino de Dios</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_191"/>
+        </navPoint>
+        <navPoint id="navPoint-201" playOrder="201">
+          <navLabel>
+            <text>“Las llaves del Reino”</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_192"/>
+        </navPoint>
+        <navPoint id="navPoint-202" playOrder="202">
+          <navLabel>
+            <text>Una visión anticipada del Reino: La Transfiguración.</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_193"/>
+        </navPoint>
+        <navPoint id="navPoint-203" playOrder="203">
+          <navLabel>
+            <text>La subida de Jesús a Jerusalén</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_194"/>
+        </navPoint>
+        <navPoint id="navPoint-204" playOrder="204">
+          <navLabel>
+            <text>La entrada mesiánica de Jesús en Jerusalén</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_195"/>
+        </navPoint>
+        <navPoint id="navPoint-205" playOrder="205">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p122a3p3_sp.html#toc_196"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-206" playOrder="206">
+        <navLabel>
+          <text>ARTÍCULO 4: “JESUCRISTO PADECIÓ BAJO EL PODER DE PONCIO PILATO, FUE CRUCIFICADO, MUERTO Y SEPULTADO”</text>
+        </navLabel>
+        <content src="p122a4p1_sp.html"/>
+        <navPoint id="navPoint-207" playOrder="207">
+          <navLabel>
+            <text>PÁRRAFO 1: JESÚS E ISRAEL</text>
+          </navLabel>
+          <content src="p122a4p1_sp.html#toc_198"/>
+        </navPoint>
+        <navPoint id="navPoint-208" playOrder="208">
+          <navLabel>
+            <text>I. Jesús y la Ley</text>
+          </navLabel>
+          <content src="p122a4p1_sp.html#toc_199"/>
+        </navPoint>
+        <navPoint id="navPoint-209" playOrder="209">
+          <navLabel>
+            <text>II. Jesús y el Templo</text>
+          </navLabel>
+          <content src="p122a4p1_sp.html#toc_200"/>
+        </navPoint>
+        <navPoint id="navPoint-210" playOrder="210">
+          <navLabel>
+            <text>III. Jesús y la fe de Israel en el Dios único y Salvador</text>
+          </navLabel>
+          <content src="p122a4p1_sp.html#toc_201"/>
+        </navPoint>
+        <navPoint id="navPoint-211" playOrder="211">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p122a4p1_sp.html#toc_202"/>
+        </navPoint>
+        <navPoint id="navPoint-212" playOrder="212">
+          <navLabel>
+            <text>PÁRRAFO 2: JESÚS MURIÓ CRUCIFICADO</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-213" playOrder="213">
+          <navLabel>
+            <text>I. El proceso de Jesús</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_204"/>
+        </navPoint>
+        <navPoint id="navPoint-214" playOrder="214">
+          <navLabel>
+            <text>Divisiones de las autoridades judías respecto a Jesús</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_205"/>
+        </navPoint>
+        <navPoint id="navPoint-215" playOrder="215">
+          <navLabel>
+            <text>Los judíos no son responsables colectivamente de la muerte de Jesús</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_206"/>
+        </navPoint>
+        <navPoint id="navPoint-216" playOrder="216">
+          <navLabel>
+            <text>Todos los pecadores fueron los autores de la Pasión de Cristo</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_207"/>
+        </navPoint>
+        <navPoint id="navPoint-217" playOrder="217">
+          <navLabel>
+            <text>II. La muerte redentora de Cristo en el designio divino de salvación</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_208"/>
+        </navPoint>
+        <navPoint id="navPoint-218" playOrder="218">
+          <navLabel>
+            <text>“Jesús entregado según el preciso designio de Dios”</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_209"/>
+        </navPoint>
+        <navPoint id="navPoint-219" playOrder="219">
+          <navLabel>
+            <text>“Muerto por nuestros pecados según las Escrituras”</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_210"/>
+        </navPoint>
+        <navPoint id="navPoint-220" playOrder="220">
+          <navLabel>
+            <text>“Dios le hizo pecado por nosotros”</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_211"/>
+        </navPoint>
+        <navPoint id="navPoint-221" playOrder="221">
+          <navLabel>
+            <text>Dios tiene la iniciativa del amor redentor universal</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_212"/>
+        </navPoint>
+        <navPoint id="navPoint-222" playOrder="222">
+          <navLabel>
+            <text>III. Cristo se ofreció a su Padre por nuestros pecados</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_213"/>
+        </navPoint>
+        <navPoint id="navPoint-223" playOrder="223">
+          <navLabel>
+            <text>Toda la vida de Cristo es oblación al Padre</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_214"/>
+        </navPoint>
+        <navPoint id="navPoint-224" playOrder="224">
+          <navLabel>
+            <text>“El cordero que quita el pecado del mundo”</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_215"/>
+        </navPoint>
+        <navPoint id="navPoint-225" playOrder="225">
+          <navLabel>
+            <text>Jesús acepta libremente el amor redentor del Padre</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_216"/>
+        </navPoint>
+        <navPoint id="navPoint-226" playOrder="226">
+          <navLabel>
+            <text>Jesús anticipó en la cena la ofrenda libre de su vida</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_217"/>
+        </navPoint>
+        <navPoint id="navPoint-227" playOrder="227">
+          <navLabel>
+            <text>La agonía de Getsemaní</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_218"/>
+        </navPoint>
+        <navPoint id="navPoint-228" playOrder="228">
+          <navLabel>
+            <text>La muerte de Cristo es el sacrificio único y definitivo</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_219"/>
+        </navPoint>
+        <navPoint id="navPoint-229" playOrder="229">
+          <navLabel>
+            <text>Jesús reemplaza nuestra desobediencia por su obediencia</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_220"/>
+        </navPoint>
+        <navPoint id="navPoint-230" playOrder="230">
+          <navLabel>
+            <text>En la cruz, Jesús consuma su sacrificio</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_221"/>
+        </navPoint>
+        <navPoint id="navPoint-231" playOrder="231">
+          <navLabel>
+            <text>Nuestra participación en el sacrificio de Cristo</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_222"/>
+        </navPoint>
+        <navPoint id="navPoint-232" playOrder="232">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p122a4p2_sp.html#toc_223"/>
+        </navPoint>
+        <navPoint id="navPoint-233" playOrder="233">
+          <navLabel>
+            <text>PÁRRAFO 3: JESUCRISTO FUE SEPULTADO</text>
+          </navLabel>
+          <content src="p122a4p3_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-234" playOrder="234">
+          <navLabel>
+            <text>El cuerpo de Cristo en el sepulcro</text>
+          </navLabel>
+          <content src="p122a4p3_sp.html#toc_225"/>
+        </navPoint>
+        <navPoint id="navPoint-235" playOrder="235">
+          <navLabel>
+            <text>“No dejarás que tu santo vea la corrupción”</text>
+          </navLabel>
+          <content src="p122a4p3_sp.html#toc_226"/>
+        </navPoint>
+        <navPoint id="navPoint-236" playOrder="236">
+          <navLabel>
+            <text>“Sepultados con Cristo…”</text>
+          </navLabel>
+          <content src="p122a4p3_sp.html#toc_227"/>
+        </navPoint>
+        <navPoint id="navPoint-237" playOrder="237">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p122a4p3_sp.html#toc_228"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-238" playOrder="238">
+        <navLabel>
+          <text>ARTÍCULO 5: “JESUCRISTO DESCENDIÓ A LOS INFIERNOS, AL TERCER DÍA RESUCITÓ DE ENTRE LOS MUERTOS”</text>
+        </navLabel>
+        <content src="p122a5p1_sp.html"/>
+        <navPoint id="navPoint-239" playOrder="239">
+          <navLabel>
+            <text>PÁRRAFO 1: CRISTO DESCENDIÓ A LOS INFIERNOS</text>
+          </navLabel>
+          <content src="p122a5p1_sp.html#toc_230"/>
+        </navPoint>
+        <navPoint id="navPoint-240" playOrder="240">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p122a5p1_sp.html#toc_231"/>
+        </navPoint>
+        <navPoint id="navPoint-241" playOrder="241">
+          <navLabel>
+            <text>PÁRRAFO 2: AL TERCER DÍA RESUCITÓ DE ENTRE LOS MUERTOS</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-242" playOrder="242">
+          <navLabel>
+            <text>I. El acontecimiento histórico y transcendente</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_233"/>
+        </navPoint>
+        <navPoint id="navPoint-243" playOrder="243">
+          <navLabel>
+            <text>El sepulcro vacío</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_234"/>
+        </navPoint>
+        <navPoint id="navPoint-244" playOrder="244">
+          <navLabel>
+            <text>Las apariciones del Resucitado</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_235"/>
+        </navPoint>
+        <navPoint id="navPoint-245" playOrder="245">
+          <navLabel>
+            <text>El estado de la humanidad resucitada de Cristo</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_236"/>
+        </navPoint>
+        <navPoint id="navPoint-246" playOrder="246">
+          <navLabel>
+            <text>La Resurrección como acontecimiento transcendente</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_237"/>
+        </navPoint>
+        <navPoint id="navPoint-247" playOrder="247">
+          <navLabel>
+            <text>II. La Resurrección obra de la Santísima Trinidad</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_238"/>
+        </navPoint>
+        <navPoint id="navPoint-248" playOrder="248">
+          <navLabel>
+            <text>III. Sentido y alcance salvífico de la Resurrección</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_239"/>
+        </navPoint>
+        <navPoint id="navPoint-249" playOrder="249">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p122a5p2_sp.html#toc_240"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-250" playOrder="250">
+        <navLabel>
+          <text>ARTÍCULO 6: “JESUCRISTO SUBIÓ A LOS CIELOS, Y ESTÁ SENTADO A LA DERECHA DE DIOS, PADRE TODOPODEROSO”</text>
+        </navLabel>
+        <content src="p1s2c2a6_sp.html"/>
+        <navPoint id="navPoint-251" playOrder="251">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c2a6_sp.html#toc_242"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-252" playOrder="252">
+        <navLabel>
+          <text>ARTÍCULO 7: “DESDE ALLÍ HA DE VENIR A JUZGAR A VIVOS Y MUERTOS”</text>
+        </navLabel>
+        <content src="p1s2c2a7_sp.html"/>
+        <navPoint id="navPoint-253" playOrder="253">
+          <navLabel>
+            <text>I. Volverá en gloria</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_244"/>
+        </navPoint>
+        <navPoint id="navPoint-254" playOrder="254">
+          <navLabel>
+            <text>Cristo reina ya mediante la Iglesia…</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_245"/>
+        </navPoint>
+        <navPoint id="navPoint-255" playOrder="255">
+          <navLabel>
+            <text>…esperando que todo le sea sometido</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_246"/>
+        </navPoint>
+        <navPoint id="navPoint-256" playOrder="256">
+          <navLabel>
+            <text>El glorioso advenimiento de Cristo, esperanza de Israel</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_247"/>
+        </navPoint>
+        <navPoint id="navPoint-257" playOrder="257">
+          <navLabel>
+            <text>La última prueba de la Iglesia</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_248"/>
+        </navPoint>
+        <navPoint id="navPoint-258" playOrder="258">
+          <navLabel>
+            <text>II. «Para juzgar a vivos y muertos»</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_249"/>
+        </navPoint>
+        <navPoint id="navPoint-259" playOrder="259">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c2a7_sp.html#toc_250"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-260" playOrder="260">
+        <navLabel>
+          <text>    CAPÍTULO TERCERO: CREO EN EL ESPÍRITU SANTO</text>
+        </navLabel>
+        <content src="p1s2c3_sp.html"/>
+      <navPoint id="navPoint-261" playOrder="261">
+        <navLabel>
+          <text>ARTÍCULO 8: “CREO EN EL ESPÍRITU SANTO”</text>
+        </navLabel>
+        <content src="p1s2c3a8_sp.html"/>
+        <navPoint id="navPoint-262" playOrder="262">
+          <navLabel>
+            <text>I. La misión conjunta del Hijo y del Espíritu Santo</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_253"/>
+        </navPoint>
+        <navPoint id="navPoint-263" playOrder="263">
+          <navLabel>
+            <text>II. Nombre, apelativos y símbolos del Espíritu Santo</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_254"/>
+        </navPoint>
+        <navPoint id="navPoint-264" playOrder="264">
+          <navLabel>
+            <text>El nombre propio del Espíritu Santo</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_255"/>
+        </navPoint>
+        <navPoint id="navPoint-265" playOrder="265">
+          <navLabel>
+            <text>Los apelativos del Espíritu Santo</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_256"/>
+        </navPoint>
+        <navPoint id="navPoint-266" playOrder="266">
+          <navLabel>
+            <text>Los símbolos del Espíritu Santo</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_257"/>
+        </navPoint>
+        <navPoint id="navPoint-267" playOrder="267">
+          <navLabel>
+            <text>III. El Espíritu y la Palabra de Dios en el tiempo de las promesas</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_258"/>
+        </navPoint>
+        <navPoint id="navPoint-268" playOrder="268">
+          <navLabel>
+            <text>En la Creación</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_259"/>
+        </navPoint>
+        <navPoint id="navPoint-269" playOrder="269">
+          <navLabel>
+            <text>El Espíritu de la promesa</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_260"/>
+        </navPoint>
+        <navPoint id="navPoint-270" playOrder="270">
+          <navLabel>
+            <text>En las Teofanías y en la Ley</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_261"/>
+        </navPoint>
+        <navPoint id="navPoint-271" playOrder="271">
+          <navLabel>
+            <text>En el Reino y en el Exilio</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_262"/>
+        </navPoint>
+        <navPoint id="navPoint-272" playOrder="272">
+          <navLabel>
+            <text>La espera del Mesías y de su Espíritu</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_263"/>
+        </navPoint>
+        <navPoint id="navPoint-273" playOrder="273">
+          <navLabel>
+            <text>IV. El Espíritu de Cristo en la plenitud de los tiempos</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_264"/>
+        </navPoint>
+        <navPoint id="navPoint-274" playOrder="274">
+          <navLabel>
+            <text>Juan, Precursor, Profeta y Bautista</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_265"/>
+        </navPoint>
+        <navPoint id="navPoint-275" playOrder="275">
+          <navLabel>
+            <text>“Alégrate, llena de gracia”</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_266"/>
+        </navPoint>
+        <navPoint id="navPoint-276" playOrder="276">
+          <navLabel>
+            <text>Cristo Jesús</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_267"/>
+        </navPoint>
+        <navPoint id="navPoint-277" playOrder="277">
+          <navLabel>
+            <text>V. El Espíritu y la Iglesia en los últimos tiempos</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_268"/>
+        </navPoint>
+        <navPoint id="navPoint-278" playOrder="278">
+          <navLabel>
+            <text>Pentecostés</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_269"/>
+        </navPoint>
+        <navPoint id="navPoint-279" playOrder="279">
+          <navLabel>
+            <text>El Espíritu Santo, el don de Dios</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_270"/>
+        </navPoint>
+        <navPoint id="navPoint-280" playOrder="280">
+          <navLabel>
+            <text>El Espíritu Santo y la Iglesia</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_271"/>
+        </navPoint>
+        <navPoint id="navPoint-281" playOrder="281">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p1s2c3a8_sp.html#toc_272"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-282" playOrder="282">
+        <navLabel>
+          <text>ARTÍCULO 9: “CREO EN LA SANTA IGLESIA CATÓLICA”</text>
+        </navLabel>
+        <content src="p1s2c3a9_sp.html"/>
+        <navPoint id="navPoint-283" playOrder="283">
+          <navLabel>
+            <text>PÁRRAFO 1: LA IGLESIA EN EL DESIGNIO DE DIOS</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_275"/>
+        </navPoint>
+        <navPoint id="navPoint-284" playOrder="284">
+          <navLabel>
+            <text>I. Los nombres y las imágenes de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_276"/>
+        </navPoint>
+        <navPoint id="navPoint-285" playOrder="285">
+          <navLabel>
+            <text>Los símbolos de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_277"/>
+        </navPoint>
+        <navPoint id="navPoint-286" playOrder="286">
+          <navLabel>
+            <text>II. Origen, fundación y misión de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_278"/>
+        </navPoint>
+        <navPoint id="navPoint-287" playOrder="287">
+          <navLabel>
+            <text>Un designio nacido en el corazón del Padre</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_279"/>
+        </navPoint>
+        <navPoint id="navPoint-288" playOrder="288">
+          <navLabel>
+            <text>La Iglesia, prefigurada desde el origen del mundo</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_280"/>
+        </navPoint>
+        <navPoint id="navPoint-289" playOrder="289">
+          <navLabel>
+            <text>La Iglesia, preparada en la Antigua Alianza</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_281"/>
+        </navPoint>
+        <navPoint id="navPoint-290" playOrder="290">
+          <navLabel>
+            <text>La Iglesia, instituida por Cristo Jesús</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_282"/>
+        </navPoint>
+        <navPoint id="navPoint-291" playOrder="291">
+          <navLabel>
+            <text>La Iglesia, manifestada por el Espíritu Santo</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_283"/>
+        </navPoint>
+        <navPoint id="navPoint-292" playOrder="292">
+          <navLabel>
+            <text>La Iglesia, consumada en la gloria</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_284"/>
+        </navPoint>
+        <navPoint id="navPoint-293" playOrder="293">
+          <navLabel>
+            <text>III. El misterio de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_285"/>
+        </navPoint>
+        <navPoint id="navPoint-294" playOrder="294">
+          <navLabel>
+            <text>La Iglesia, a la vez visible y espiritual</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_286"/>
+        </navPoint>
+        <navPoint id="navPoint-295" playOrder="295">
+          <navLabel>
+            <text>La Iglesia, misterio de la unión de los hombres con Dios</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_287"/>
+        </navPoint>
+        <navPoint id="navPoint-296" playOrder="296">
+          <navLabel>
+            <text>La Iglesia, sacramento universal de la salvación</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_288"/>
+        </navPoint>
+        <navPoint id="navPoint-297" playOrder="297">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a9p1_sp.html#toc_289"/>
+        </navPoint>
+        <navPoint id="navPoint-298" playOrder="298">
+          <navLabel>
+            <text>PÁRRAFO 2: LA IGLESIA, PUEBLO DE DIOS, CUERPO DE CRISTO, TEMPLO DEL ESPÍRITU SANTO</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-299" playOrder="299">
+          <navLabel>
+            <text>I. La Iglesia, Pueblo de Dios</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_291"/>
+        </navPoint>
+        <navPoint id="navPoint-300" playOrder="300">
+          <navLabel>
+            <text>Las características del Pueblo de Dios</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_292"/>
+        </navPoint>
+        <navPoint id="navPoint-301" playOrder="301">
+          <navLabel>
+            <text>Un pueblo sacerdotal, profético y real</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_293"/>
+        </navPoint>
+        <navPoint id="navPoint-302" playOrder="302">
+          <navLabel>
+            <text>II. La Iglesia, Cuerpo de Cristo</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_294"/>
+        </navPoint>
+        <navPoint id="navPoint-303" playOrder="303">
+          <navLabel>
+            <text>La Iglesia es comunión con Jesús</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_295"/>
+        </navPoint>
+        <navPoint id="navPoint-304" playOrder="304">
+          <navLabel>
+            <text>“Un solo cuerpo”</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_296"/>
+        </navPoint>
+        <navPoint id="navPoint-305" playOrder="305">
+          <navLabel>
+            <text>Cristo, Cabeza de este Cuerpo</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_297"/>
+        </navPoint>
+        <navPoint id="navPoint-306" playOrder="306">
+          <navLabel>
+            <text>La Iglesia es la Esposa de Cristo</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_298"/>
+        </navPoint>
+        <navPoint id="navPoint-307" playOrder="307">
+          <navLabel>
+            <text>III. La Iglesia, Templo del Espíritu Santo</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_299"/>
+        </navPoint>
+        <navPoint id="navPoint-308" playOrder="308">
+          <navLabel>
+            <text>Los carismas</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_300"/>
+        </navPoint>
+        <navPoint id="navPoint-309" playOrder="309">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a9p2_sp.html#toc_301"/>
+        </navPoint>
+        <navPoint id="navPoint-310" playOrder="310">
+          <navLabel>
+            <text>PÁRRAFO 3: LA IGLESIA ES UNA, SANTA, CATÓLICA Y APOSTÓLICA</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-311" playOrder="311">
+          <navLabel>
+            <text>I. La Iglesia es una</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_303"/>
+        </navPoint>
+        <navPoint id="navPoint-312" playOrder="312">
+          <navLabel>
+            <text>“El sagrado misterio de la unidad de la Iglesia”﻿</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_304a"/>
+        </navPoint>
+        <navPoint id="navPoint-313" playOrder="313">
+          <navLabel>
+            <text>Las heridas de la unidad</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_304"/>
+        </navPoint>
+        <navPoint id="navPoint-314" playOrder="314">
+          <navLabel>
+            <text>Hacia la unidad</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_305"/>
+        </navPoint>
+        <navPoint id="navPoint-315" playOrder="315">
+          <navLabel>
+            <text>II. La Iglesia es santa</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_306"/>
+        </navPoint>
+        <navPoint id="navPoint-316" playOrder="316">
+          <navLabel>
+            <text>III. La Iglesia es católica</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_307"/>
+        </navPoint>
+        <navPoint id="navPoint-317" playOrder="317">
+          <navLabel>
+            <text>Qué quiere decir “católica”</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_308"/>
+        </navPoint>
+        <navPoint id="navPoint-318" playOrder="318">
+          <navLabel>
+            <text>Cada una de las Iglesias particulares es “católica”</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_309"/>
+        </navPoint>
+        <navPoint id="navPoint-319" playOrder="319">
+          <navLabel>
+            <text>Quién pertenece a la Iglesia católica</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_310"/>
+        </navPoint>
+        <navPoint id="navPoint-320" playOrder="320">
+          <navLabel>
+            <text>La Iglesia y los no cristianos</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_311"/>
+        </navPoint>
+        <navPoint id="navPoint-321" playOrder="321">
+          <navLabel>
+            <text>“Fuera de la Iglesia no hay salvación”</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_312"/>
+        </navPoint>
+        <navPoint id="navPoint-322" playOrder="322">
+          <navLabel>
+            <text>La misión, exigencia de la catolicidad de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_313"/>
+        </navPoint>
+        <navPoint id="navPoint-323" playOrder="323">
+          <navLabel>
+            <text>IV. La Iglesia es apostólica</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_314"/>
+        </navPoint>
+        <navPoint id="navPoint-324" playOrder="324">
+          <navLabel>
+            <text>La misión de los Apóstoles</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_315"/>
+        </navPoint>
+        <navPoint id="navPoint-325" playOrder="325">
+          <navLabel>
+            <text>Los obispos sucesores de los Apóstoles</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_316"/>
+        </navPoint>
+        <navPoint id="navPoint-326" playOrder="326">
+          <navLabel>
+            <text>El apostolado</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_317"/>
+        </navPoint>
+        <navPoint id="navPoint-327" playOrder="327">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a9p3_sp.html#toc_318"/>
+        </navPoint>
+        <navPoint id="navPoint-328" playOrder="328">
+          <navLabel>
+            <text>PÁRRAFO 4: LOS FIELES DE CRISTO: JERARQUÍA, LAICOS, VIDA CONSAGRADA</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-329" playOrder="329">
+          <navLabel>
+            <text>I. La constitución jerárquica de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_320"/>
+        </navPoint>
+        <navPoint id="navPoint-330" playOrder="330">
+          <navLabel>
+            <text>Razón del ministerio eclesial</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_321"/>
+        </navPoint>
+        <navPoint id="navPoint-331" playOrder="331">
+          <navLabel>
+            <text>El colegio episcopal y su cabeza, el Papa</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_322"/>
+        </navPoint>
+        <navPoint id="navPoint-332" playOrder="332">
+          <navLabel>
+            <text>La misión de enseñar</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_323"/>
+        </navPoint>
+        <navPoint id="navPoint-333" playOrder="333">
+          <navLabel>
+            <text>La misión de santificar</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_324"/>
+        </navPoint>
+        <navPoint id="navPoint-334" playOrder="334">
+          <navLabel>
+            <text>La misión de gobernar</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_325"/>
+        </navPoint>
+        <navPoint id="navPoint-335" playOrder="335">
+          <navLabel>
+            <text>II. Los fieles cristianos laicos</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_326"/>
+        </navPoint>
+        <navPoint id="navPoint-336" playOrder="336">
+          <navLabel>
+            <text>La vocación de los laicos</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_327"/>
+        </navPoint>
+        <navPoint id="navPoint-337" playOrder="337">
+          <navLabel>
+            <text>La participación de los laicos en la misión sacerdotal de Cristo</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_328"/>
+        </navPoint>
+        <navPoint id="navPoint-338" playOrder="338">
+          <navLabel>
+            <text>Su participación en la misión profética de Cristo</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_329"/>
+        </navPoint>
+        <navPoint id="navPoint-339" playOrder="339">
+          <navLabel>
+            <text>Su participación en la misión real de Cristo</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_330"/>
+        </navPoint>
+        <navPoint id="navPoint-340" playOrder="340">
+          <navLabel>
+            <text>III. La vida consagrada</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_331"/>
+        </navPoint>
+        <navPoint id="navPoint-341" playOrder="341">
+          <navLabel>
+            <text>Consejos evangélicos, vida consagrada</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_332"/>
+        </navPoint>
+        <navPoint id="navPoint-342" playOrder="342">
+          <navLabel>
+            <text>Un gran árbol, múltiples ramas</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_333"/>
+        </navPoint>
+        <navPoint id="navPoint-343" playOrder="343">
+          <navLabel>
+            <text>La vida eremítica</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_334"/>
+        </navPoint>
+        <navPoint id="navPoint-344" playOrder="344">
+          <navLabel>
+            <text>Las vírgenes y las viudas consagradas</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_335"/>
+        </navPoint>
+        <navPoint id="navPoint-345" playOrder="345">
+          <navLabel>
+            <text>La vida religiosa</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_336"/>
+        </navPoint>
+        <navPoint id="navPoint-346" playOrder="346">
+          <navLabel>
+            <text>Los institutos seculares</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_337"/>
+        </navPoint>
+        <navPoint id="navPoint-347" playOrder="347">
+          <navLabel>
+            <text>Las sociedades de vida apostólica</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_338"/>
+        </navPoint>
+        <navPoint id="navPoint-348" playOrder="348">
+          <navLabel>
+            <text>Consagración y misión: anunciar al Rey que viene</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_339"/>
+        </navPoint>
+        <navPoint id="navPoint-349" playOrder="349">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a9p4_sp.html#toc_340"/>
+        </navPoint>
+        <navPoint id="navPoint-350" playOrder="350">
+          <navLabel>
+            <text>PÁRRAFO 5: LA COMUNIÓN DE LOS SANTOS</text>
+          </navLabel>
+          <content src="p123a9p5_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-351" playOrder="351">
+          <navLabel>
+            <text>I. La comunión de los bienes espirituales</text>
+          </navLabel>
+          <content src="p123a9p5_sp.html#toc_342"/>
+        </navPoint>
+        <navPoint id="navPoint-352" playOrder="352">
+          <navLabel>
+            <text>II. La comunión entre la Iglesia del cielo y la de la tierra</text>
+          </navLabel>
+          <content src="p123a9p5_sp.html#toc_343"/>
+        </navPoint>
+        <navPoint id="navPoint-353" playOrder="353">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a9p5_sp.html#toc_344"/>
+        </navPoint>
+        <navPoint id="navPoint-354" playOrder="354">
+          <navLabel>
+            <text>PÁRRAFO 6: MARÍA, MADRE DE CRISTO, MADRE DE LA IGLESIA</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-355" playOrder="355">
+          <navLabel>
+            <text>I. La maternidad de María respecto de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_346"/>
+        </navPoint>
+        <navPoint id="navPoint-356" playOrder="356">
+          <navLabel>
+            <text>Totalmente unida a su Hijo…</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_347"/>
+        </navPoint>
+        <navPoint id="navPoint-357" playOrder="357">
+          <navLabel>
+            <text>…también en su Asunción…</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_348"/>
+        </navPoint>
+        <navPoint id="navPoint-358" playOrder="358">
+          <navLabel>
+            <text>…ella es nuestra Madre en el orden de la gracia</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_349"/>
+        </navPoint>
+        <navPoint id="navPoint-359" playOrder="359">
+          <navLabel>
+            <text>II. El culto a la Santísima Virgen</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_350"/>
+        </navPoint>
+        <navPoint id="navPoint-360" playOrder="360">
+          <navLabel>
+            <text>III. María icono escatológico de la Iglesia</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_351"/>
+        </navPoint>
+        <navPoint id="navPoint-361" playOrder="361">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a9p6_sp.html#toc_352"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-362" playOrder="362">
+        <navLabel>
+          <text>ARTÍCULO 10: “CREO EN EL PERDÓN DE LOS PECADOS”</text>
+        </navLabel>
+        <content src="p123a10_sp.html"/>
+        <navPoint id="navPoint-363" playOrder="363">
+          <navLabel>
+            <text>I. Un solo Bautismo para el perdón de los pecados</text>
+          </navLabel>
+          <content src="p123a10_sp.html#toc_354"/>
+        </navPoint>
+        <navPoint id="navPoint-364" playOrder="364">
+          <navLabel>
+            <text>II. La potestad de las llaves</text>
+          </navLabel>
+          <content src="p123a10_sp.html#toc_355"/>
+        </navPoint>
+        <navPoint id="navPoint-365" playOrder="365">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a10_sp.html#toc_356"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-366" playOrder="366">
+        <navLabel>
+          <text>ARTÍCULO 11: “CREO EN LA RESURRECCIÓN DE LA CARNE”</text>
+        </navLabel>
+        <content src="p123a11_sp.html"/>
+        <navPoint id="navPoint-367" playOrder="367">
+          <navLabel>
+            <text>I. La Resurrección de Cristo y la nuestra</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_358"/>
+        </navPoint>
+        <navPoint id="navPoint-368" playOrder="368">
+          <navLabel>
+            <text>Revelación progresiva de la Resurrección</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_359"/>
+        </navPoint>
+        <navPoint id="navPoint-369" playOrder="369">
+          <navLabel>
+            <text>Cómo resucitan los muertos</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_360"/>
+        </navPoint>
+        <navPoint id="navPoint-370" playOrder="370">
+          <navLabel>
+            <text>Resucitados con Cristo</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_361"/>
+        </navPoint>
+        <navPoint id="navPoint-371" playOrder="371">
+          <navLabel>
+            <text>II. Morir en Cristo Jesús</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_362"/>
+        </navPoint>
+        <navPoint id="navPoint-372" playOrder="372">
+          <navLabel>
+            <text>La muerte</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_363"/>
+        </navPoint>
+        <navPoint id="navPoint-373" playOrder="373">
+          <navLabel>
+            <text>El sentido de la muerte cristiana</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_364"/>
+        </navPoint>
+        <navPoint id="navPoint-374" playOrder="374">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a11_sp.html#toc_365"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-375" playOrder="375">
+        <navLabel>
+          <text>ARTÍCULO 12: “CREO EN LA VIDA ETERNA”</text>
+        </navLabel>
+        <content src="p123a12_sp.html"/>
+        <navPoint id="navPoint-376" playOrder="376">
+          <navLabel>
+            <text>I. El juicio particular</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_367"/>
+        </navPoint>
+        <navPoint id="navPoint-377" playOrder="377">
+          <navLabel>
+            <text>II. El cielo</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_368"/>
+        </navPoint>
+        <navPoint id="navPoint-378" playOrder="378">
+          <navLabel>
+            <text>III. La purificación final o purgatorio</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_369"/>
+        </navPoint>
+        <navPoint id="navPoint-379" playOrder="379">
+          <navLabel>
+            <text>IV. El infierno</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_370"/>
+        </navPoint>
+        <navPoint id="navPoint-380" playOrder="380">
+          <navLabel>
+            <text>V. El Juicio final</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_371"/>
+        </navPoint>
+        <navPoint id="navPoint-381" playOrder="381">
+          <navLabel>
+            <text>VI. La esperanza de los cielos nuevos y de la tierra nueva</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_372"/>
+        </navPoint>
+        <navPoint id="navPoint-382" playOrder="382">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_373"/>
+        </navPoint>
+        <navPoint id="navPoint-383" playOrder="383">
+          <navLabel>
+            <text>“Amén”</text>
+          </navLabel>
+          <content src="p123a12_sp.html#toc_374"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-384" playOrder="384">
+      <navLabel>
+        <text>SEGUNDA PARTE: LA CELEBRACIÓN DEL MISTERIO CRISTIANO</text>
+      </navLabel>
+      <content src="p2_sp.html"/>
+        <navPoint id="navPoint-385" playOrder="385">
+          <navLabel>
+            <text>Razón de ser de la liturgia</text>
+          </navLabel>
+          <content src="p2_sp.html#toc_375"/>
+        </navPoint>
+        <navPoint id="navPoint-386" playOrder="386">
+          <navLabel>
+            <text>Significación de la palabra “Liturgia”</text>
+          </navLabel>
+          <content src="p2_sp.html#toc_376"/>
+        </navPoint>
+        <navPoint id="navPoint-387" playOrder="387">
+          <navLabel>
+            <text>La liturgia como fuente de Vida</text>
+          </navLabel>
+          <content src="p2_sp.html#toc_377"/>
+        </navPoint>
+        <navPoint id="navPoint-388" playOrder="388">
+          <navLabel>
+            <text>Oración y liturgia</text>
+          </navLabel>
+          <content src="p2_sp.html#toc_378"/>
+        </navPoint>
+        <navPoint id="navPoint-389" playOrder="389">
+          <navLabel>
+            <text>Catequesis y liturgia</text>
+          </navLabel>
+          <content src="p2_sp.html#toc_379"/>
+        </navPoint>
+
+
+
+    <navPoint id="navPoint-390" playOrder="390">
+      <navLabel>
+        <text>  PRIMERA SECCIÓN: LA ECONOMÍA SACRAMENTAL</text>
+      </navLabel>
+      <content src="p2s1_sp.html#toc_381"/>
+      <navPoint id="navPoint-391" playOrder="391">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: EL MISTERIO PASCUAL EN EL TIEMPO DE LA IGLESIA</text>
+        </navLabel>
+        <content src="p2s1c1a1_sp.html"/>
+      <navPoint id="navPoint-392" playOrder="392">
+        <navLabel>
+          <text>ARTÍCULO 1: : LA LITURGIA, OBRA DE LA SANTÍSIMA TRINIDAD</text>
+        </navLabel>
+        <content src="p2s1c1a1_sp.html#toc_383"/>
+        <navPoint id="navPoint-393" playOrder="393">
+          <navLabel>
+            <text>I. El Padre, fuente y fin de la liturgia</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_384"/>
+        </navPoint>
+        <navPoint id="navPoint-394" playOrder="394">
+          <navLabel>
+            <text>II. La obra de Cristo en la liturgia</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_385"/>
+        </navPoint>
+        <navPoint id="navPoint-395" playOrder="395">
+          <navLabel>
+            <text>Cristo glorificado…</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_386"/>
+        </navPoint>
+        <navPoint id="navPoint-396" playOrder="396">
+          <navLabel>
+            <text>…desde la Iglesia de los Apóstoles…</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_387"/>
+        </navPoint>
+        <navPoint id="navPoint-397" playOrder="397">
+          <navLabel>
+            <text>…está presente en la liturgia terrena…</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_388"/>
+        </navPoint>
+        <navPoint id="navPoint-398" playOrder="398">
+          <navLabel>
+            <text>…la cual participa en la liturgia celestial</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_389"/>
+        </navPoint>
+        <navPoint id="navPoint-399" playOrder="399">
+          <navLabel>
+            <text>III. El Espíritu Santo y la Iglesia en la liturgia</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_390"/>
+        </navPoint>
+        <navPoint id="navPoint-400" playOrder="400">
+          <navLabel>
+            <text>El Espíritu Santo prepara a recibir a Cristo</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_391"/>
+        </navPoint>
+        <navPoint id="navPoint-401" playOrder="401">
+          <navLabel>
+            <text>El Espíritu Santo recuerda el misterio de Cristo</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_392"/>
+        </navPoint>
+        <navPoint id="navPoint-402" playOrder="402">
+          <navLabel>
+            <text>El Espíritu Santo actualiza el misterio de Cristo</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_393"/>
+        </navPoint>
+        <navPoint id="navPoint-403" playOrder="403">
+          <navLabel>
+            <text>La comunión en el Espíritu Santo</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_394"/>
+        </navPoint>
+        <navPoint id="navPoint-404" playOrder="404">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s1c1a1_sp.html#toc_395"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-405" playOrder="405">
+        <navLabel>
+          <text>ARTÍCULO 2: EL MISTERIO PASCUAL EN LOS SACRAMENTOS DE LA IGLESIA</text>
+        </navLabel>
+        <content src="p2s1c1a2_sp.html"/>
+        <navPoint id="navPoint-406" playOrder="406">
+          <navLabel>
+            <text>I. Sacramentos de Cristo</text>
+          </navLabel>
+          <content src="p2s1c1a2_sp.html#toc_397"/>
+        </navPoint>
+        <navPoint id="navPoint-407" playOrder="407">
+          <navLabel>
+            <text>II. Sacramentos de la Iglesia</text>
+          </navLabel>
+          <content src="p2s1c1a2_sp.html#toc_398"/>
+        </navPoint>
+        <navPoint id="navPoint-408" playOrder="408">
+          <navLabel>
+            <text>III. Sacramentos de la fe</text>
+          </navLabel>
+          <content src="p2s1c1a2_sp.html#toc_399"/>
+        </navPoint>
+        <navPoint id="navPoint-409" playOrder="409">
+          <navLabel>
+            <text>IV. Sacramentos de la salvación</text>
+          </navLabel>
+          <content src="p2s1c1a2_sp.html#toc_400"/>
+        </navPoint>
+        <navPoint id="navPoint-410" playOrder="410">
+          <navLabel>
+            <text>V. Sacramentos de la vida eterna</text>
+          </navLabel>
+          <content src="p2s1c1a2_sp.html#toc_401"/>
+        </navPoint>
+        <navPoint id="navPoint-411" playOrder="411">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s1c1a2_sp.html#toc_402"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-412" playOrder="412">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: LA CELEBRACIÓN SACRAMENTAL DEL MISTERIO PASCUAL</text>
+        </navLabel>
+        <content src="p2s1c2_sp.html"/>
+      <navPoint id="navPoint-413" playOrder="413">
+        <navLabel>
+          <text>ARTÍCULO 1: CELEBRAR LA LITURGIA DE LA IGLESIA</text>
+        </navLabel>
+        <content src="p2s1c2a1_sp.html"/>
+        <navPoint id="navPoint-414" playOrder="414">
+          <navLabel>
+            <text>I. ¿Quién celebra?</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_405"/>
+        </navPoint>
+        <navPoint id="navPoint-415" playOrder="415">
+          <navLabel>
+            <text>Los celebrantes de la liturgia celestial</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_406"/>
+        </navPoint>
+        <navPoint id="navPoint-416" playOrder="416">
+          <navLabel>
+            <text>Los celebrantes de la liturgia sacramental</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_407"/>
+        </navPoint>
+        <navPoint id="navPoint-417" playOrder="417">
+          <navLabel>
+            <text>II. ¿Cómo celebrar?</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_408"/>
+        </navPoint>
+        <navPoint id="navPoint-418" playOrder="418">
+          <navLabel>
+            <text>Signos y símbolos</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_409"/>
+        </navPoint>
+        <navPoint id="navPoint-419" playOrder="419">
+          <navLabel>
+            <text>Palabras y acciones</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_410"/>
+        </navPoint>
+        <navPoint id="navPoint-420" playOrder="420">
+          <navLabel>
+            <text>Canto y música</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_411"/>
+        </navPoint>
+        <navPoint id="navPoint-421" playOrder="421">
+          <navLabel>
+            <text>Imágenes sagradas</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_412"/>
+        </navPoint>
+        <navPoint id="navPoint-422" playOrder="422">
+          <navLabel>
+            <text>III. ¿Cuándo celebrar?</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_413"/>
+        </navPoint>
+        <navPoint id="navPoint-423" playOrder="423">
+          <navLabel>
+            <text>El tiempo litúrgico</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_414"/>
+        </navPoint>
+        <navPoint id="navPoint-424" playOrder="424">
+          <navLabel>
+            <text>El día del Señor</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_415"/>
+        </navPoint>
+        <navPoint id="navPoint-425" playOrder="425">
+          <navLabel>
+            <text>El año litúrgico</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_416"/>
+        </navPoint>
+        <navPoint id="navPoint-426" playOrder="426">
+          <navLabel>
+            <text>El santoral en el año litúrgico</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_417"/>
+        </navPoint>
+        <navPoint id="navPoint-427" playOrder="427">
+          <navLabel>
+            <text>La Liturgia de las Horas</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_418"/>
+        </navPoint>
+        <navPoint id="navPoint-428" playOrder="428">
+          <navLabel>
+            <text>IV. ¿Dónde celebrar?</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_419"/>
+        </navPoint>
+        <navPoint id="navPoint-429" playOrder="429">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s1c2a1_sp.html#toc_420"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-430" playOrder="430">
+        <navLabel>
+          <text>ARTÍCULO 2: DIVERSIDAD LITÚRGICA Y UNIDAD DEL MISTERIO</text>
+        </navLabel>
+        <content src="p2s1c2a2_sp.html"/>
+        <navPoint id="navPoint-431" playOrder="431">
+          <navLabel>
+            <text>Tradiciones litúrgicas y catolicidad de la Iglesia</text>
+          </navLabel>
+          <content src="p2s1c2a2_sp.html#toc_422"/>
+        </navPoint>
+        <navPoint id="navPoint-432" playOrder="432">
+          <navLabel>
+            <text>Liturgia y culturas</text>
+          </navLabel>
+          <content src="p2s1c2a2_sp.html#toc_423"/>
+        </navPoint>
+        <navPoint id="navPoint-433" playOrder="433">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s1c2a2_sp.html#toc_424"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+      </navPoint>
+    <navPoint id="navPoint-434" playOrder="434">
+      <navLabel>
+        <text>  SEGUNDA SECCIÓN: LOS SIETE SACRAMENTOS DE LA IGLESIA</text>
+      </navLabel>
+      <content src="p2s2_sp.html"/>
+      <navPoint id="navPoint-435" playOrder="435">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: LOS SACRAMENTOS DE LA INICIACIÓN CRISTIANA</text>
+        </navLabel>
+        <content src="p2s2c1_sp.html"/>
+      <navPoint id="navPoint-436" playOrder="436">
+        <navLabel>
+          <text>ARTÍCULO 1: EL SACRAMENTO DEL BAUTISMO</text>
+        </navLabel>
+        <content src="p2s2c1a1_sp.html"/>
+        <navPoint id="navPoint-437" playOrder="437">
+          <navLabel>
+            <text>I. El nombre de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_428"/>
+        </navPoint>
+        <navPoint id="navPoint-438" playOrder="438">
+          <navLabel>
+            <text>II. El Bautismo en la Economía de la salvación</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_429"/>
+        </navPoint>
+        <navPoint id="navPoint-439" playOrder="439">
+          <navLabel>
+            <text>Las prefiguraciones del Bautismo en la Antigua Alianza</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_430"/>
+        </navPoint>
+        <navPoint id="navPoint-440" playOrder="440">
+          <navLabel>
+            <text>El Bautismo de Cristo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_431"/>
+        </navPoint>
+        <navPoint id="navPoint-441" playOrder="441">
+          <navLabel>
+            <text>El Bautismo en la Iglesia</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_432"/>
+        </navPoint>
+        <navPoint id="navPoint-442" playOrder="442">
+          <navLabel>
+            <text>III. La celebración del sacramento del Bautismo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_433"/>
+        </navPoint>
+        <navPoint id="navPoint-443" playOrder="443">
+          <navLabel>
+            <text>La iniciación cristiana</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_434"/>
+        </navPoint>
+        <navPoint id="navPoint-444" playOrder="444">
+          <navLabel>
+            <text>La mistagogia de la celebración</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_435"/>
+        </navPoint>
+        <navPoint id="navPoint-445" playOrder="445">
+          <navLabel>
+            <text>IV. Quién puede recibir el Bautismo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_436"/>
+        </navPoint>
+        <navPoint id="navPoint-446" playOrder="446">
+          <navLabel>
+            <text>El Bautismo de adultos</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_437"/>
+        </navPoint>
+        <navPoint id="navPoint-447" playOrder="447">
+          <navLabel>
+            <text>El Bautismo de niños</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_438"/>
+        </navPoint>
+        <navPoint id="navPoint-448" playOrder="448">
+          <navLabel>
+            <text>Fe y Bautismo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_439"/>
+        </navPoint>
+        <navPoint id="navPoint-449" playOrder="449">
+          <navLabel>
+            <text>V. Quién puede bautizar</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_440"/>
+        </navPoint>
+        <navPoint id="navPoint-450" playOrder="450">
+          <navLabel>
+            <text>VI. La necesidad del Bautismo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_441"/>
+        </navPoint>
+        <navPoint id="navPoint-451" playOrder="451">
+          <navLabel>
+            <text>VII. La gracia del Bautismo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_442"/>
+        </navPoint>
+        <navPoint id="navPoint-452" playOrder="452">
+          <navLabel>
+            <text>Para la remisión de los pecados…</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_443"/>
+        </navPoint>
+        <navPoint id="navPoint-453" playOrder="453">
+          <navLabel>
+            <text>“Una criatura nueva”</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_444"/>
+        </navPoint>
+        <navPoint id="navPoint-454" playOrder="454">
+          <navLabel>
+            <text>Incorporados a la Iglesia, Cuerpo de Cristo</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_445"/>
+        </navPoint>
+        <navPoint id="navPoint-455" playOrder="455">
+          <navLabel>
+            <text>Vínculo sacramental de la unidad de los cristianos</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_446"/>
+        </navPoint>
+        <navPoint id="navPoint-456" playOrder="456">
+          <navLabel>
+            <text>Sello espiritual indeleble…</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_447"/>
+        </navPoint>
+        <navPoint id="navPoint-457" playOrder="457">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c1a1_sp.html#toc_448"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-458" playOrder="458">
+        <navLabel>
+          <text>ARTÍCULO 2: EL SACRAMENTO DE LA CONFIRMACIÓN</text>
+        </navLabel>
+        <content src="p2s2c1a2_sp.html"/>
+        <navPoint id="navPoint-459" playOrder="459">
+          <navLabel>
+            <text>I. La Confirmación en la Economía de la salvación</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_450"/>
+        </navPoint>
+        <navPoint id="navPoint-460" playOrder="460">
+          <navLabel>
+            <text>Dos tradiciones: Oriente y Occidente</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_451"/>
+        </navPoint>
+        <navPoint id="navPoint-461" playOrder="461">
+          <navLabel>
+            <text>II. Los signos y el rito de la Confirmación</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_452"/>
+        </navPoint>
+        <navPoint id="navPoint-462" playOrder="462">
+          <navLabel>
+            <text>La celebración de la Confirmación</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_453"/>
+        </navPoint>
+        <navPoint id="navPoint-463" playOrder="463">
+          <navLabel>
+            <text>III. Los efectos de la Confirmación</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_454"/>
+        </navPoint>
+        <navPoint id="navPoint-464" playOrder="464">
+          <navLabel>
+            <text>IV. Quién puede recibir este sacramento</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_455"/>
+        </navPoint>
+        <navPoint id="navPoint-465" playOrder="465">
+          <navLabel>
+            <text>V. El ministro de la Confirmación</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_456"/>
+        </navPoint>
+        <navPoint id="navPoint-466" playOrder="466">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c1a2_sp.html#toc_457"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-467" playOrder="467">
+        <navLabel>
+          <text>ARTÍCULO 3: EL SACRAMENTO DE LA EUCARISTÍA</text>
+        </navLabel>
+        <content src="p2s2c1a3_sp.html"/>
+        <navPoint id="navPoint-468" playOrder="468">
+          <navLabel>
+            <text>I. La Eucaristía, fuente y culmen de la vida eclesial</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_459"/>
+        </navPoint>
+        <navPoint id="navPoint-469" playOrder="469">
+          <navLabel>
+            <text>II. El nombre de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_460"/>
+        </navPoint>
+        <navPoint id="navPoint-470" playOrder="470">
+          <navLabel>
+            <text>III. La Eucaristía en la economía de la salvación</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_461"/>
+        </navPoint>
+        <navPoint id="navPoint-471" playOrder="471">
+          <navLabel>
+            <text>Los signos del pan y del vino</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_462"/>
+        </navPoint>
+        <navPoint id="navPoint-472" playOrder="472">
+          <navLabel>
+            <text>La institución de la Eucaristía</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_463"/>
+        </navPoint>
+        <navPoint id="navPoint-473" playOrder="473">
+          <navLabel>
+            <text>“Haced esto en memoria mía”</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_464"/>
+        </navPoint>
+        <navPoint id="navPoint-474" playOrder="474">
+          <navLabel>
+            <text>IV. La celebración litúrgica de la Eucaristía</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_465"/>
+        </navPoint>
+        <navPoint id="navPoint-475" playOrder="475">
+          <navLabel>
+            <text>La misa de todos los siglos</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_466"/>
+        </navPoint>
+        <navPoint id="navPoint-476" playOrder="476">
+          <navLabel>
+            <text>El desarrollo de la celebración</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_467"/>
+        </navPoint>
+        <navPoint id="navPoint-477" playOrder="477">
+          <navLabel>
+            <text>V. El sacrificio sacramental: acción de gracias, memorial, presencia</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_468"/>
+        </navPoint>
+        <navPoint id="navPoint-478" playOrder="478">
+          <navLabel>
+            <text>La acción de gracias y la alabanza al Padre</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_469"/>
+        </navPoint>
+        <navPoint id="navPoint-479" playOrder="479">
+          <navLabel>
+            <text>El memorial sacrificial de Cristo y de su Cuerpo, que es la Iglesia</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_470"/>
+        </navPoint>
+        <navPoint id="navPoint-480" playOrder="480">
+          <navLabel>
+            <text>La presencia de Cristo por el poder de su Palabra y del Espíritu Santo</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_471"/>
+        </navPoint>
+        <navPoint id="navPoint-481" playOrder="481">
+          <navLabel>
+            <text>VI. El banquete pascual</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_472"/>
+        </navPoint>
+        <navPoint id="navPoint-482" playOrder="482">
+          <navLabel>
+            <text>“Tomad y comed todos de él”: la comunión</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_473"/>
+        </navPoint>
+        <navPoint id="navPoint-483" playOrder="483">
+          <navLabel>
+            <text>Los frutos de la comunión</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_474"/>
+        </navPoint>
+        <navPoint id="navPoint-484" playOrder="484">
+          <navLabel>
+            <text>VII. La Eucaristía, “Pignus futurae gloriae”</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_475"/>
+        </navPoint>
+        <navPoint id="navPoint-485" playOrder="485">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c1a3_sp.html#toc_476"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-486" playOrder="486">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: LOS SACRAMENTOS DE CURACIÓN</text>
+        </navLabel>
+        <content src="p2s2c2_sp.html"/>
+      <navPoint id="navPoint-487" playOrder="487">
+        <navLabel>
+          <text>ARTÍCULO 4: EL SACRAMENTO DE LA PENITENCIA Y DE LA RECONCILIACIÓN</text>
+        </navLabel>
+        <content src="p2s2c2a4_sp.html"/>
+        <navPoint id="navPoint-488" playOrder="488">
+          <navLabel>
+            <text>I. El nombre de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_479"/>
+        </navPoint>
+        <navPoint id="navPoint-489" playOrder="489">
+          <navLabel>
+            <text>II. Por qué un sacramento de la Reconciliación después del Bautismo</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_480"/>
+        </navPoint>
+        <navPoint id="navPoint-490" playOrder="490">
+          <navLabel>
+            <text>III. La conversión de los bautizados</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_481"/>
+        </navPoint>
+        <navPoint id="navPoint-491" playOrder="491">
+          <navLabel>
+            <text>IV. La penitencia interior</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_482"/>
+        </navPoint>
+        <navPoint id="navPoint-492" playOrder="492">
+          <navLabel>
+            <text>V. Diversas formas de penitencia en la vida cristiana</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_483"/>
+        </navPoint>
+        <navPoint id="navPoint-493" playOrder="493">
+          <navLabel>
+            <text>VI. El sacramento de la Penitencia y de la Reconciliación</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_484"/>
+        </navPoint>
+        <navPoint id="navPoint-494" playOrder="494">
+          <navLabel>
+            <text>Sólo Dios perdona el pecado</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_485"/>
+        </navPoint>
+        <navPoint id="navPoint-495" playOrder="495">
+          <navLabel>
+            <text>Reconciliación con la Iglesia</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_486"/>
+        </navPoint>
+        <navPoint id="navPoint-496" playOrder="496">
+          <navLabel>
+            <text>El sacramento del perdón</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_487"/>
+        </navPoint>
+        <navPoint id="navPoint-497" playOrder="497">
+          <navLabel>
+            <text>VII. Los actos del penitente</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_488"/>
+        </navPoint>
+        <navPoint id="navPoint-498" playOrder="498">
+          <navLabel>
+            <text>La contrición</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_489"/>
+        </navPoint>
+        <navPoint id="navPoint-499" playOrder="499">
+          <navLabel>
+            <text>La confesión de los pecados</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_490"/>
+        </navPoint>
+        <navPoint id="navPoint-500" playOrder="500">
+          <navLabel>
+            <text>La satisfacción</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_491"/>
+        </navPoint>
+        <navPoint id="navPoint-501" playOrder="501">
+          <navLabel>
+            <text>VIII. El ministro de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_492"/>
+        </navPoint>
+        <navPoint id="navPoint-502" playOrder="502">
+          <navLabel>
+            <text>IX. Los efectos de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_493"/>
+        </navPoint>
+        <navPoint id="navPoint-503" playOrder="503">
+          <navLabel>
+            <text>X. Las indulgencias</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_494"/>
+        </navPoint>
+        <navPoint id="navPoint-504" playOrder="504">
+          <navLabel>
+            <text>Qué son las indulgencias</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_495"/>
+        </navPoint>
+        <navPoint id="navPoint-505" playOrder="505">
+          <navLabel>
+            <text>Las penas del pecado</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_496"/>
+        </navPoint>
+        <navPoint id="navPoint-506" playOrder="506">
+          <navLabel>
+            <text>En la comunión de los santos</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_497"/>
+        </navPoint>
+        <navPoint id="navPoint-507" playOrder="507">
+          <navLabel>
+            <text>La indulgencia de Dios se obtiene por medio de la Iglesia</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_498"/>
+        </navPoint>
+        <navPoint id="navPoint-508" playOrder="508">
+          <navLabel>
+            <text>XI. La celebración del sacramento de la Penitencia</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_499"/>
+        </navPoint>
+        <navPoint id="navPoint-509" playOrder="509">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c2a4_sp.html#toc_500"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-510" playOrder="510">
+        <navLabel>
+          <text>ARTÍCULO 5: LA UNCIÓN DE LOS ENFERMOS</text>
+        </navLabel>
+        <content src="p2s2c2a5_sp.html"/>
+        <navPoint id="navPoint-511" playOrder="511">
+          <navLabel>
+            <text>I. Fundamentos en la economía de la salvación</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_502"/>
+        </navPoint>
+        <navPoint id="navPoint-512" playOrder="512">
+          <navLabel>
+            <text>La enfermedad en la vida humana</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_503"/>
+        </navPoint>
+        <navPoint id="navPoint-513" playOrder="513">
+          <navLabel>
+            <text>El enfermo ante Dios</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_504"/>
+        </navPoint>
+        <navPoint id="navPoint-514" playOrder="514">
+          <navLabel>
+            <text>Cristo, médico</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_505"/>
+        </navPoint>
+        <navPoint id="navPoint-515" playOrder="515">
+          <navLabel>
+            <text>“Sanad a los enfermos…”</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_506"/>
+        </navPoint>
+        <navPoint id="navPoint-516" playOrder="516">
+          <navLabel>
+            <text>Un sacramento de los enfermos</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_507"/>
+        </navPoint>
+        <navPoint id="navPoint-517" playOrder="517">
+          <navLabel>
+            <text>II. Quién recibe y quién administra este sacramento</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_508"/>
+        </navPoint>
+        <navPoint id="navPoint-518" playOrder="518">
+          <navLabel>
+            <text>En caso de grave enfermedad…</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_509"/>
+        </navPoint>
+        <navPoint id="navPoint-519" playOrder="519">
+          <navLabel>
+            <text>“…llame a los presbíteros de la Iglesia”</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_510"/>
+        </navPoint>
+        <navPoint id="navPoint-520" playOrder="520">
+          <navLabel>
+            <text>III. La celebración del sacramento</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_511"/>
+        </navPoint>
+        <navPoint id="navPoint-521" playOrder="521">
+          <navLabel>
+            <text>IV. Efectos de la celebración de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_512"/>
+        </navPoint>
+        <navPoint id="navPoint-522" playOrder="522">
+          <navLabel>
+            <text>V. El viático, último sacramento del cristiano</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_513"/>
+        </navPoint>
+        <navPoint id="navPoint-523" playOrder="523">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c2a5_sp.html#toc_514"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-524" playOrder="524">
+        <navLabel>
+          <text>    CAPÍTULO TERCERO: LOS SACRAMENTOS AL SERVICIO DE LA COMUNIDAD</text>
+        </navLabel>
+        <content src="p2s2c3_sp.html"/>
+      <navPoint id="navPoint-525" playOrder="525">
+        <navLabel>
+          <text>ARTÍCULO 6: EL SACRAMENTO DEL ORDEN</text>
+        </navLabel>
+        <content src="p2s2c3a6_sp.html"/>
+        <navPoint id="navPoint-526" playOrder="526">
+          <navLabel>
+            <text>I. El nombre de sacramento del Orden</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_517"/>
+        </navPoint>
+        <navPoint id="navPoint-527" playOrder="527">
+          <navLabel>
+            <text>II. El sacramento del Orden en la Economía de la salvación</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_518"/>
+        </navPoint>
+        <navPoint id="navPoint-528" playOrder="528">
+          <navLabel>
+            <text>El sacerdocio de la Antigua Alianza</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_519"/>
+        </navPoint>
+        <navPoint id="navPoint-529" playOrder="529">
+          <navLabel>
+            <text>El único sacerdocio de Cristo</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_520"/>
+        </navPoint>
+        <navPoint id="navPoint-530" playOrder="530">
+          <navLabel>
+            <text>Dos modos de participar en el único sacerdocio de Cristo</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_521"/>
+        </navPoint>
+        <navPoint id="navPoint-531" playOrder="531">
+          <navLabel>
+            <text>In persona Christi Capitis…</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_522"/>
+        </navPoint>
+        <navPoint id="navPoint-532" playOrder="532">
+          <navLabel>
+            <text>“In nomine totius Ecclesiae”</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_523"/>
+        </navPoint>
+        <navPoint id="navPoint-533" playOrder="533">
+          <navLabel>
+            <text>III. Los tres grados del sacramento del Orden</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_524"/>
+        </navPoint>
+        <navPoint id="navPoint-534" playOrder="534">
+          <navLabel>
+            <text>La ordenación episcopal, plenitud del sacramento del Orden</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_525"/>
+        </navPoint>
+        <navPoint id="navPoint-535" playOrder="535">
+          <navLabel>
+            <text>La ordenación de los presbíteros, cooperadores de los obispos</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_526"/>
+        </navPoint>
+        <navPoint id="navPoint-536" playOrder="536">
+          <navLabel>
+            <text>La ordenación de los diáconos, “en orden al ministerio”</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_527"/>
+        </navPoint>
+        <navPoint id="navPoint-537" playOrder="537">
+          <navLabel>
+            <text>IV. La celebración de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_528"/>
+        </navPoint>
+        <navPoint id="navPoint-538" playOrder="538">
+          <navLabel>
+            <text>V. El ministro de este sacramento</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_529"/>
+        </navPoint>
+        <navPoint id="navPoint-539" playOrder="539">
+          <navLabel>
+            <text>VI. Quién puede recibir este sacramento</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_530"/>
+        </navPoint>
+        <navPoint id="navPoint-540" playOrder="540">
+          <navLabel>
+            <text>VII. Efectos del sacramento del Orden</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_531"/>
+        </navPoint>
+        <navPoint id="navPoint-541" playOrder="541">
+          <navLabel>
+            <text>El carácter indeleble</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_532"/>
+        </navPoint>
+        <navPoint id="navPoint-542" playOrder="542">
+          <navLabel>
+            <text>La gracia del Espíritu Santo</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_533"/>
+        </navPoint>
+        <navPoint id="navPoint-543" playOrder="543">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c3a6_sp.html#toc_534"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-544" playOrder="544">
+        <navLabel>
+          <text>ARTÍCULO 7: EL SACRAMENTO DEL MATRIMONIO</text>
+        </navLabel>
+        <content src="p2s2c3a7_sp.html"/>
+        <navPoint id="navPoint-545" playOrder="545">
+          <navLabel>
+            <text>I. El matrimonio en el plan de Dios</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_536"/>
+        </navPoint>
+        <navPoint id="navPoint-546" playOrder="546">
+          <navLabel>
+            <text>El matrimonio en el orden de la creación</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_537"/>
+        </navPoint>
+        <navPoint id="navPoint-547" playOrder="547">
+          <navLabel>
+            <text>El matrimonio bajo la esclavitud del pecado</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_538"/>
+        </navPoint>
+        <navPoint id="navPoint-548" playOrder="548">
+          <navLabel>
+            <text>El matrimonio bajo la pedagogía de la antigua Ley</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_539"/>
+        </navPoint>
+        <navPoint id="navPoint-549" playOrder="549">
+          <navLabel>
+            <text>El matrimonio en el Señor</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_540"/>
+        </navPoint>
+        <navPoint id="navPoint-550" playOrder="550">
+          <navLabel>
+            <text>La virginidad por el Reino de Dios</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_541"/>
+        </navPoint>
+        <navPoint id="navPoint-551" playOrder="551">
+          <navLabel>
+            <text>II. La celebración del Matrimonio</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_542"/>
+        </navPoint>
+        <navPoint id="navPoint-552" playOrder="552">
+          <navLabel>
+            <text>III. El consentimiento matrimonial</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_543"/>
+        </navPoint>
+        <navPoint id="navPoint-553" playOrder="553">
+          <navLabel>
+            <text>Matrimonios mixtos y disparidad de culto</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_544"/>
+        </navPoint>
+        <navPoint id="navPoint-554" playOrder="554">
+          <navLabel>
+            <text>IV. Los efectos del sacramento del Matrimonio</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_545"/>
+        </navPoint>
+        <navPoint id="navPoint-555" playOrder="555">
+          <navLabel>
+            <text>El vínculo matrimonial</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_546"/>
+        </navPoint>
+        <navPoint id="navPoint-556" playOrder="556">
+          <navLabel>
+            <text>La gracia del sacramento del Matrimonio</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_547"/>
+        </navPoint>
+        <navPoint id="navPoint-557" playOrder="557">
+          <navLabel>
+            <text>V. Los bienes y las exigencias del amor conyugal</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_548"/>
+        </navPoint>
+        <navPoint id="navPoint-558" playOrder="558">
+          <navLabel>
+            <text>Unidad e indisolubilidad del matrimonio</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_549"/>
+        </navPoint>
+        <navPoint id="navPoint-559" playOrder="559">
+          <navLabel>
+            <text>La fidelidad del amor conyugal</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_550"/>
+        </navPoint>
+        <navPoint id="navPoint-560" playOrder="560">
+          <navLabel>
+            <text>La apertura a la fecundidad</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_551"/>
+        </navPoint>
+        <navPoint id="navPoint-561" playOrder="561">
+          <navLabel>
+            <text>VI. La Iglesia doméstica</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_552"/>
+        </navPoint>
+        <navPoint id="navPoint-562" playOrder="562">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c3a7_sp.html#toc_553"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-563" playOrder="563">
+        <navLabel>
+          <text>    CAPÍTULO CUARTO: OTRAS CELEBRACIONES LITÚRGICAS</text>
+        </navLabel>
+        <content src="p2s2c4a1_sp.html"/>
+        <navPoint id="navPoint-564" playOrder="564">
+          <navLabel>
+            <text>ARTÍCULO 1: LOS SACRAMENTALES</text>
+          </navLabel>
+          <content src="p2s2c4a1_sp.html#toc_555"/>
+        <navPoint id="navPoint-565" playOrder="565">
+          <navLabel>
+            <text>Características de los sacramentales</text>
+          </navLabel>
+          <content src="p2s2c4a1_sp.html#toc_556"/>
+        </navPoint>
+        <navPoint id="navPoint-566" playOrder="566">
+          <navLabel>
+            <text>Diversas formas de sacramentales</text>
+          </navLabel>
+          <content src="p2s2c4a1_sp.html#toc_557"/>
+        </navPoint>
+        <navPoint id="navPoint-567" playOrder="567">
+          <navLabel>
+            <text>La religiosidad popular</text>
+          </navLabel>
+          <content src="p2s2c4a1_sp.html#toc_558"/>
+        </navPoint>
+        <navPoint id="navPoint-568" playOrder="568">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p2s2c4a1_sp.html#toc_559"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-569" playOrder="569">
+        <navLabel>
+          <text>ARTÍCULO 2: LAS EXEQUIAS CRISTIANAS</text>
+        </navLabel>
+        <content src="p2s2c4a2_sp.html"/>
+        <navPoint id="navPoint-570" playOrder="570">
+          <navLabel>
+            <text>I. La última Pascua del cristiano</text>
+          </navLabel>
+          <content src="p2s2c4a2_sp.html#toc_561"/>
+        </navPoint>
+        <navPoint id="navPoint-571" playOrder="571">
+          <navLabel>
+            <text>II. La celebración de las exequias</text>
+          </navLabel>
+          <content src="p2s2c4a2_sp.html#toc_562"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+    </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-572" playOrder="572">
+      <navLabel>
+        <text>TERCERA PARTE: LA VIDA EN CRISTO</text>
+      </navLabel>
+      <content src="p3_sp.html"/>
+    <navPoint id="navPoint-573" playOrder="573">
+      <navLabel>
+        <text>  PRIMERA SECCIÓN: LA VOCACIÓN DEL HOMBRE: LA VIDA EN EL ESPÍRITU</text>
+      </navLabel>
+      <content src="p3s1_sp.html"/>
+      <navPoint id="navPoint-574" playOrder="574">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: LA DIGNIDAD DE LA PERSONA HUMANA</text>
+        </navLabel>
+        <content src="p3s1c1_sp.html"/>
+      <navPoint id="navPoint-575" playOrder="575">
+        <navLabel>
+          <text>ARTÍCULO 1: EL HOMBRE, IMAGEN DE DIOS</text>
+        </navLabel>
+        <content src="p3s1c1a1_sp.html"/>
+        <navPoint id="navPoint-576" playOrder="576">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a1_sp.html#toc_567"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-577" playOrder="577">
+        <navLabel>
+          <text>ARTÍCULO 2: NUESTRA VOCACIÓN A LA BIENAVENTURANZA</text>
+        </navLabel>
+        <content src="p3s1c1a2_sp.html"/>
+        <navPoint id="navPoint-578" playOrder="578">
+          <navLabel>
+            <text>I. Las bienaventuranzas</text>
+          </navLabel>
+          <content src="p3s1c1a2_sp.html#toc_570"/>
+        </navPoint>
+        <navPoint id="navPoint-579" playOrder="579">
+          <navLabel>
+            <text>II. El deseo de felicidad</text>
+          </navLabel>
+          <content src="p3s1c1a2_sp.html#toc_571"/>
+        </navPoint>
+        <navPoint id="navPoint-580" playOrder="580">
+          <navLabel>
+            <text>III. La bienaventuranza cristiana</text>
+          </navLabel>
+          <content src="p3s1c1a2_sp.html#toc_572"/>
+        </navPoint>
+        <navPoint id="navPoint-581" playOrder="581">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a2_sp.html#toc_573"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-582" playOrder="582">
+        <navLabel>
+          <text>ARTÍCULO 3: LA LIBERTAD DEL HOMBRE</text>
+        </navLabel>
+        <content src="p3s1c1a3_sp.html"/>
+        <navPoint id="navPoint-583" playOrder="583">
+          <navLabel>
+            <text>I. Libertad y responsabilidad</text>
+          </navLabel>
+          <content src="p3s1c1a3_sp.html#toc_575"/>
+        </navPoint>
+        <navPoint id="navPoint-584" playOrder="584">
+          <navLabel>
+            <text>II. La libertad humana en la Economía de la salvación</text>
+          </navLabel>
+          <content src="p3s1c1a3_sp.html#toc_576"/>
+        </navPoint>
+        <navPoint id="navPoint-585" playOrder="585">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a3_sp.html#toc_577"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-586" playOrder="586">
+        <navLabel>
+          <text>ARTÍCULO 4: LA MORALIDAD DE LOS ACTOS HUMANOS</text>
+        </navLabel>
+        <content src="p3s1c1a4_sp.html"/>
+        <navPoint id="navPoint-587" playOrder="587">
+          <navLabel>
+            <text>I. Fuentes de la moralidad</text>
+          </navLabel>
+          <content src="p3s1c1a4_sp.html#toc_579"/>
+        </navPoint>
+        <navPoint id="navPoint-588" playOrder="588">
+          <navLabel>
+            <text>II. Los actos buenos y los actos malos</text>
+          </navLabel>
+          <content src="p3s1c1a4_sp.html#toc_580"/>
+        </navPoint>
+        <navPoint id="navPoint-589" playOrder="589">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a4_sp.html#toc_581"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-590" playOrder="590">
+        <navLabel>
+          <text>ARTÍCULO 5: LA MORALIDAD DE LAS PASIONES</text>
+        </navLabel>
+        <content src="p3s1c1a5_sp.html"/>
+        <navPoint id="navPoint-591" playOrder="591">
+          <navLabel>
+            <text>I. Las pasiones</text>
+          </navLabel>
+          <content src="p3s1c1a5_sp.html#toc_583"/>
+        </navPoint>
+        <navPoint id="navPoint-592" playOrder="592">
+          <navLabel>
+            <text>II. Pasiones y vida moral</text>
+          </navLabel>
+          <content src="p3s1c1a5_sp.html#toc_584"/>
+        </navPoint>
+        <navPoint id="navPoint-593" playOrder="593">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a5_sp.html#toc_585"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-594" playOrder="594">
+        <navLabel>
+          <text>ARTÍCULO 6: LA CONCIENCIA MORAL</text>
+        </navLabel>
+        <content src="p3s1c1a6_sp.html"/>
+        <navPoint id="navPoint-595" playOrder="595">
+          <navLabel>
+            <text>I. El dictamen de la conciencia</text>
+          </navLabel>
+          <content src="p3s1c1a6_sp.html#toc_587"/>
+        </navPoint>
+        <navPoint id="navPoint-596" playOrder="596">
+          <navLabel>
+            <text>II. La formación de la conciencia</text>
+          </navLabel>
+          <content src="p3s1c1a6_sp.html#toc_588"/>
+        </navPoint>
+        <navPoint id="navPoint-597" playOrder="597">
+          <navLabel>
+            <text>III. Decidir en conciencia</text>
+          </navLabel>
+          <content src="p3s1c1a6_sp.html#toc_589"/>
+        </navPoint>
+        <navPoint id="navPoint-598" playOrder="598">
+          <navLabel>
+            <text>IV. El juicio erróneo</text>
+          </navLabel>
+          <content src="p3s1c1a6_sp.html#toc_590"/>
+        </navPoint>
+        <navPoint id="navPoint-599" playOrder="599">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a6_sp.html#toc_591"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-600" playOrder="600">
+        <navLabel>
+          <text>ARTÍCULO 7: LAS VIRTUDES</text>
+        </navLabel>
+        <content src="p3s1c1a7_sp.html"/>
+        <navPoint id="navPoint-601" playOrder="601">
+          <navLabel>
+            <text>I. Las virtudes humanas</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_593"/>
+        </navPoint>
+        <navPoint id="navPoint-602" playOrder="602">
+          <navLabel>
+            <text>Distinción de las virtudes cardinales</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_594"/>
+        </navPoint>
+        <navPoint id="navPoint-603" playOrder="603">
+          <navLabel>
+            <text>Las virtudes y la gracia</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_595"/>
+        </navPoint>
+        <navPoint id="navPoint-604" playOrder="604">
+          <navLabel>
+            <text>II. Las virtudes teologales</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_596"/>
+        </navPoint>
+        <navPoint id="navPoint-605" playOrder="605">
+          <navLabel>
+            <text>La fe</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_597"/>
+        </navPoint>
+        <navPoint id="navPoint-606" playOrder="606">
+          <navLabel>
+            <text>La esperanza</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_598"/>
+        </navPoint>
+        <navPoint id="navPoint-607" playOrder="607">
+          <navLabel>
+            <text>La caridad</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_599"/>
+        </navPoint>
+        <navPoint id="navPoint-608" playOrder="608">
+          <navLabel>
+            <text>III. Dones y frutos del Espíritu Santo</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_600"/>
+        </navPoint>
+        <navPoint id="navPoint-609" playOrder="609">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a7_sp.html#toc_601"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-610" playOrder="610">
+        <navLabel>
+          <text>ARTÍCULO 8: EL PECADO</text>
+        </navLabel>
+        <content src="p3s1c1a8_sp.html"/>
+        <navPoint id="navPoint-611" playOrder="611">
+          <navLabel>
+            <text>I. La misericordia y el pecado</text>
+          </navLabel>
+          <content src="p3s1c1a8_sp.html#toc_603"/>
+        </navPoint>
+        <navPoint id="navPoint-612" playOrder="612">
+          <navLabel>
+            <text>II. Definición de pecado</text>
+          </navLabel>
+          <content src="p3s1c1a8_sp.html#toc_604"/>
+        </navPoint>
+        <navPoint id="navPoint-613" playOrder="613">
+          <navLabel>
+            <text>III. La diversidad de pecados</text>
+          </navLabel>
+          <content src="p3s1c1a8_sp.html#toc_605"/>
+        </navPoint>
+        <navPoint id="navPoint-614" playOrder="614">
+          <navLabel>
+            <text>IV. La gravedad del pecado: pecado mortal y venial</text>
+          </navLabel>
+          <content src="p3s1c1a8_sp.html#toc_606"/>
+        </navPoint>
+        <navPoint id="navPoint-615" playOrder="615">
+          <navLabel>
+            <text>V. La proliferación del pecado</text>
+          </navLabel>
+          <content src="p3s1c1a8_sp.html#toc_607"/>
+        </navPoint>
+        <navPoint id="navPoint-616" playOrder="616">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c1a8_sp.html#toc_608"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+      <navPoint id="navPoint-617" playOrder="617">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: LA COMUNIDAD HUMANA</text>
+        </navLabel>
+        <content src="p3s1c2_sp.html"/>
+      <navPoint id="navPoint-618" playOrder="618">
+        <navLabel>
+          <text>ARTÍCULO 1: LA PERSONA Y LA SOCIEDAD</text>
+        </navLabel>
+        <content src="p3s1c2a1_sp.html"/>
+        <navPoint id="navPoint-619" playOrder="619">
+          <navLabel>
+            <text>I. Carácter comunitario de la vocación humana</text>
+          </navLabel>
+          <content src="p3s1c2a1_sp.html#toc_611"/>
+        </navPoint>
+        <navPoint id="navPoint-620" playOrder="620">
+          <navLabel>
+            <text>II. Conversión y la sociedad</text>
+          </navLabel>
+          <content src="p3s1c2a1_sp.html#toc_612"/>
+        </navPoint>
+        <navPoint id="navPoint-621" playOrder="621">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c2a1_sp.html#toc_613"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-622" playOrder="622">
+        <navLabel>
+          <text>ARTÍCULO 2: LA PARTICIPACIÓN EN LA VIDA SOCIAL</text>
+        </navLabel>
+        <content src="p3s1c2a2_sp.html"/>
+        <navPoint id="navPoint-623" playOrder="623">
+          <navLabel>
+            <text>I. La autoridad</text>
+          </navLabel>
+          <content src="p3s1c2a2_sp.html#toc_615"/>
+        </navPoint>
+        <navPoint id="navPoint-624" playOrder="624">
+          <navLabel>
+            <text>II. El bien común</text>
+          </navLabel>
+          <content src="p3s1c2a2_sp.html#toc_616"/>
+        </navPoint>
+        <navPoint id="navPoint-625" playOrder="625">
+          <navLabel>
+            <text>III. Responsabilidad y participación</text>
+          </navLabel>
+          <content src="p3s1c2a2_sp.html#toc_617"/>
+        </navPoint>
+        <navPoint id="navPoint-626" playOrder="626">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c2a2_sp.html#toc_618"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-627" playOrder="627">
+        <navLabel>
+          <text>ARTÍCULO 3: LA JUSTICIA SOCIAL</text>
+        </navLabel>
+        <content src="p3s1c2a3_sp.html"/>
+        <navPoint id="navPoint-628" playOrder="628">
+          <navLabel>
+            <text>I. El respeto de la persona humana</text>
+          </navLabel>
+          <content src="p3s1c2a3_sp.html#toc_620"/>
+        </navPoint>
+        <navPoint id="navPoint-629" playOrder="629">
+          <navLabel>
+            <text>II. Igualdad y diferencias entre los hombres</text>
+          </navLabel>
+          <content src="p3s1c2a3_sp.html#toc_621"/>
+        </navPoint>
+        <navPoint id="navPoint-630" playOrder="630">
+          <navLabel>
+            <text>III. La solidaridad humana</text>
+          </navLabel>
+          <content src="p3s1c2a3_sp.html#toc_622"/>
+        </navPoint>
+        <navPoint id="navPoint-631" playOrder="631">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c2a3_sp.html#toc_623"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-632" playOrder="632">
+        <navLabel>
+          <text>    CAPÍTULO TERCERO: LA SALVACIÓN DE DIOS: LA LEY Y LA GRACIA</text>
+        </navLabel>
+        <content src="p3s1c3_sp.html"/>
+        <navPoint id="navPoint-633" playOrder="633">
+        <navLabel>
+          <text>ARTÍCULO 1: LA LEY MORAL</text>
+        </navLabel>
+        <content src="p3s1c3a1_sp.html"/>
+        <navPoint id="navPoint-634" playOrder="634">
+          <navLabel>
+            <text>I. La ley moral natural</text>
+          </navLabel>
+          <content src="p3s1c3a1_sp.html#toc_625"/>
+        </navPoint>
+        <navPoint id="navPoint-635" playOrder="635">
+          <navLabel>
+            <text>II. La Ley antigua</text>
+          </navLabel>
+          <content src="p3s1c3a1_sp.html#toc_626"/>
+        </navPoint>
+        <navPoint id="navPoint-636" playOrder="636">
+          <navLabel>
+            <text>III. La Ley nueva o Ley evangélica</text>
+          </navLabel>
+          <content src="p3s1c3a1_sp.html#toc_627"/>
+        </navPoint>
+        <navPoint id="navPoint-637" playOrder="637">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c3a1_sp.html#toc_628"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-638" playOrder="638">
+        <navLabel>
+          <text>ARTÍCULO 2: GRACIA Y JUSTIFICACIÓN</text>
+        </navLabel>
+        <content src="p3s1c3a2_sp.html"/>
+        <navPoint id="navPoint-639" playOrder="639">
+          <navLabel>
+            <text>I. La justificación</text>
+          </navLabel>
+          <content src="p3s1c3a2_sp.html#toc_630"/>
+        </navPoint>
+        <navPoint id="navPoint-640" playOrder="640">
+          <navLabel>
+            <text>II. La gracia</text>
+          </navLabel>
+          <content src="p3s1c3a2_sp.html#toc_631"/>
+        </navPoint>
+        <navPoint id="navPoint-641" playOrder="641">
+          <navLabel>
+            <text>III. El mérito</text>
+          </navLabel>
+          <content src="p3s1c3a2_sp.html#toc_632"/>
+        </navPoint>
+        <navPoint id="navPoint-642" playOrder="642">
+          <navLabel>
+            <text>IV. La santidad cristiana</text>
+          </navLabel>
+          <content src="p3s1c3a2_sp.html#toc_633"/>
+        </navPoint>
+        <navPoint id="navPoint-643" playOrder="643">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c3a2_sp.html#toc_634"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-644" playOrder="644">
+        <navLabel>
+          <text>ARTÍCULO 3: LA IGLESIA, MADRE Y MAESTRA</text>
+        </navLabel>
+        <content src="p3s1c3a3_sp.html"/>
+        <navPoint id="navPoint-645" playOrder="645">
+          <navLabel>
+            <text>I. Vida moral y Magisterio de la Iglesia</text>
+          </navLabel>
+          <content src="p3s1c3a3_sp.html#toc_636"/>
+        </navPoint>
+        <navPoint id="navPoint-646" playOrder="646">
+          <navLabel>
+            <text>II. Los mandamientos de la Iglesia</text>
+          </navLabel>
+          <content src="p3s1c3a3_sp.html#toc_637"/>
+        </navPoint>
+        <navPoint id="navPoint-647" playOrder="647">
+          <navLabel>
+            <text>III. Vida moral y testimonio misionero</text>
+          </navLabel>
+          <content src="p3s1c3a3_sp.html#toc_638"/>
+        </navPoint>
+        <navPoint id="navPoint-648" playOrder="648">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s1c3a3_sp.html#toc_639"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+      </navPoint>
+    <navPoint id="navPoint-649" playOrder="649">
+      <navLabel>
+        <text>  SEGUNDA SECCIÓN: LOS DIEZ MANDAMIENTOS</text>
+      </navLabel>
+      <content src="p3s2_sp.html"/>
+        <navPoint id="navPoint-650" playOrder="650">
+          <navLabel>
+            <text>Los diez mandamientos</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_640"/>
+        </navPoint>
+        <navPoint id="navPoint-651" playOrder="651">
+          <navLabel>
+            <text>“Maestro, ¿qué he de hacer…?”</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_642"/>
+        </navPoint>
+        <navPoint id="navPoint-652" playOrder="652">
+          <navLabel>
+            <text>El Decálogo en la Sagrada Escritura</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_643"/>
+        </navPoint>
+        <navPoint id="navPoint-653" playOrder="653">
+          <navLabel>
+            <text>El Decálogo en la Tradición de la Iglesia</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_644"/>
+        </navPoint>
+        <navPoint id="navPoint-654" playOrder="654">
+          <navLabel>
+            <text>La unidad del Decálogo</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_645"/>
+        </navPoint>
+        <navPoint id="navPoint-655" playOrder="655">
+          <navLabel>
+            <text>El Decálogo y la ley natural</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_646"/>
+        </navPoint>
+        <navPoint id="navPoint-656" playOrder="656">
+          <navLabel>
+            <text>La obligación del Decálogo</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_647"/>
+        </navPoint>
+        <navPoint id="navPoint-657" playOrder="657">
+          <navLabel>
+            <text>“Sin mí no podéis hacer nada”</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_648"/>
+        </navPoint>
+        <navPoint id="navPoint-658" playOrder="658">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2_sp.html#toc_649"/>
+        </navPoint>
+      <navPoint id="navPoint-659" playOrder="659">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: «AMARÁS AL SEÑOR TU DIOS CON TODO TU CORAZÓN, CON TODA TU ALMA Y CON TODAS TUS FUERZAS»</text>
+        </navLabel>
+        <content src="p3s2c1_sp.html"/>
+      <navPoint id="navPoint-660" playOrder="660">
+        <navLabel>
+          <text>ARTÍCULO 1: EL PRIMER MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c1a1_sp.html"/>
+        <navPoint id="navPoint-661" playOrder="661">
+          <navLabel>
+            <text>I. “Adorarás al señor tu Dios, y le servirás”</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_652"/>
+        </navPoint>
+        <navPoint id="navPoint-662" playOrder="662">
+          <navLabel>
+            <text>La fe</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_653"/>
+        </navPoint>
+        <navPoint id="navPoint-663" playOrder="663">
+          <navLabel>
+            <text>La esperanza</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_654"/>
+        </navPoint>
+        <navPoint id="navPoint-664" playOrder="664">
+          <navLabel>
+            <text>La caridad</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_655"/>
+        </navPoint>
+        <navPoint id="navPoint-665" playOrder="665">
+          <navLabel>
+            <text>II. “A Él sólo darás culto”</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_656"/>
+        </navPoint>
+        <navPoint id="navPoint-666" playOrder="666">
+          <navLabel>
+            <text>La adoración</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_657"/>
+        </navPoint>
+        <navPoint id="navPoint-667" playOrder="667">
+          <navLabel>
+            <text>La oración</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_658"/>
+        </navPoint>
+        <navPoint id="navPoint-668" playOrder="668">
+          <navLabel>
+            <text>El sacrificio</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_659"/>
+        </navPoint>
+        <navPoint id="navPoint-669" playOrder="669">
+          <navLabel>
+            <text>Promesas y votos</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_660"/>
+        </navPoint>
+        <navPoint id="navPoint-670" playOrder="670">
+          <navLabel>
+            <text>El deber social de la religión y el derecho a la libertad religiosa</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_661"/>
+        </navPoint>
+        <navPoint id="navPoint-671" playOrder="671">
+          <navLabel>
+            <text>III. “No habrá para ti otros dioses delante de mí”</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_662"/>
+        </navPoint>
+        <navPoint id="navPoint-672" playOrder="672">
+          <navLabel>
+            <text>La superstición</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_663"/>
+        </navPoint>
+        <navPoint id="navPoint-673" playOrder="673">
+          <navLabel>
+            <text>La idolatría</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_664"/>
+        </navPoint>
+        <navPoint id="navPoint-674" playOrder="674">
+          <navLabel>
+            <text>Adivinación y magia</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_665"/>
+        </navPoint>
+        <navPoint id="navPoint-675" playOrder="675">
+          <navLabel>
+            <text>La irreligión</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_666"/>
+        </navPoint>
+        <navPoint id="navPoint-676" playOrder="676">
+          <navLabel>
+            <text>El ateísmo</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_667"/>
+        </navPoint>
+        <navPoint id="navPoint-677" playOrder="677">
+          <navLabel>
+            <text>El agnosticismo</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_668"/>
+        </navPoint>
+        <navPoint id="navPoint-678" playOrder="678">
+          <navLabel>
+            <text>IV. “No te harás escultura alguna…”</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_669"/>
+        </navPoint>
+        <navPoint id="navPoint-679" playOrder="679">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c1a1_sp.html#toc_670"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-680" playOrder="680">
+        <navLabel>
+          <text>ARTÍCULO 2: EL SEGUNDO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c1a2_sp.html"/>
+        <navPoint id="navPoint-681" playOrder="681">
+          <navLabel>
+            <text>I. El Nombre del Señor es santo</text>
+          </navLabel>
+          <content src="p3s2c1a2_sp.html#toc_672"/>
+        </navPoint>
+        <navPoint id="navPoint-682" playOrder="682">
+          <navLabel>
+            <text>II. Tomar el Nombre del Señor en vano</text>
+          </navLabel>
+          <content src="p3s2c1a2_sp.html#toc_673"/>
+        </navPoint>
+        <navPoint id="navPoint-683" playOrder="683">
+          <navLabel>
+            <text>III. El nombre cristiano</text>
+          </navLabel>
+          <content src="p3s2c1a2_sp.html#toc_674"/>
+        </navPoint>
+        <navPoint id="navPoint-684" playOrder="684">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c1a2_sp.html#toc_675"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-685" playOrder="685">
+        <navLabel>
+          <text>ARTÍCULO 3: EL TERCER MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c1a3_sp.html"/>
+        <navPoint id="navPoint-686" playOrder="686">
+          <navLabel>
+            <text>I. El día del sábado</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_677"/>
+        </navPoint>
+        <navPoint id="navPoint-687" playOrder="687">
+          <navLabel>
+            <text>II. El día del Señor</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_678"/>
+        </navPoint>
+        <navPoint id="navPoint-688" playOrder="688">
+          <navLabel>
+            <text>El día de la Resurrección: la nueva creación</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_679"/>
+        </navPoint>
+        <navPoint id="navPoint-689" playOrder="689">
+          <navLabel>
+            <text>El domingo, plenitud del sábado</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_680"/>
+        </navPoint>
+        <navPoint id="navPoint-690" playOrder="690">
+          <navLabel>
+            <text>La Eucaristía dominical</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_681"/>
+        </navPoint>
+        <navPoint id="navPoint-691" playOrder="691">
+          <navLabel>
+            <text>La obligación del domingo</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_682"/>
+        </navPoint>
+        <navPoint id="navPoint-692" playOrder="692">
+          <navLabel>
+            <text>Día de gracia y de descanso</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_683"/>
+        </navPoint>
+        <navPoint id="navPoint-693" playOrder="693">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c1a3_sp.html#toc_684"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-694" playOrder="694">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: «AMARÁS A TU PRÓJIMO COMO A TI MISMO»</text>
+        </navLabel>
+        <content src="p3s2c2_sp.html"/>
+      <navPoint id="navPoint-695" playOrder="695">
+        <navLabel>
+          <text>ARTÍCULO 4: EL CUARTO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a4_sp.html"/>
+        <navPoint id="navPoint-696" playOrder="696">
+          <navLabel>
+            <text>I. La familia en el plan de Dios</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_687"/>
+        </navPoint>
+        <navPoint id="navPoint-697" playOrder="697">
+          <navLabel>
+            <text>La familia cristiana</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_688"/>
+        </navPoint>
+        <navPoint id="navPoint-698" playOrder="698">
+          <navLabel>
+            <text>II. La familia y la sociedad</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_689"/>
+        </navPoint>
+        <navPoint id="navPoint-699" playOrder="699">
+          <navLabel>
+            <text>III. Deberes de los miembros de la familia</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_690"/>
+        </navPoint>
+        <navPoint id="navPoint-700" playOrder="700">
+          <navLabel>
+            <text>Deberes de los hijos</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_691"/>
+        </navPoint>
+        <navPoint id="navPoint-701" playOrder="701">
+          <navLabel>
+            <text>Deberes de los padres</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_692"/>
+        </navPoint>
+        <navPoint id="navPoint-702" playOrder="702">
+          <navLabel>
+            <text>IV. La familia y el reino de Dios</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_693"/>
+        </navPoint>
+        <navPoint id="navPoint-703" playOrder="703">
+          <navLabel>
+            <text>V. Las autoridades en la sociedad civil</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_694"/>
+        </navPoint>
+        <navPoint id="navPoint-704" playOrder="704">
+          <navLabel>
+            <text>Deberes de las autoridades civiles</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_695"/>
+        </navPoint>
+        <navPoint id="navPoint-705" playOrder="705">
+          <navLabel>
+            <text>Deberes de los ciudadanos</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_696"/>
+        </navPoint>
+        <navPoint id="navPoint-706" playOrder="706">
+          <navLabel>
+            <text>La comunidad política y la Iglesia</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_697"/>
+        </navPoint>
+        <navPoint id="navPoint-707" playOrder="707">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a4_sp.html#toc_698"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-708" playOrder="708">
+        <navLabel>
+          <text>ARTÍCULO 5: EL QUINTO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a5_sp.html"/>
+        <navPoint id="navPoint-709" playOrder="709">
+          <navLabel>
+            <text>I. El respeto de la vida humana</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_700"/>
+        </navPoint>
+        <navPoint id="navPoint-710" playOrder="710">
+          <navLabel>
+            <text>El testimonio de la historia sagrada</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_701"/>
+        </navPoint>
+        <navPoint id="navPoint-711" playOrder="711">
+          <navLabel>
+            <text>La legítima defensa</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_702"/>
+        </navPoint>
+        <navPoint id="navPoint-712" playOrder="712">
+          <navLabel>
+            <text>El homicidio voluntario</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_703"/>
+        </navPoint>
+        <navPoint id="navPoint-713" playOrder="713">
+          <navLabel>
+            <text>El aborto</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_704"/>
+        </navPoint>
+        <navPoint id="navPoint-714" playOrder="714">
+          <navLabel>
+            <text>La eutanasia</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_705"/>
+        </navPoint>
+        <navPoint id="navPoint-715" playOrder="715">
+          <navLabel>
+            <text>El suicidio</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_706"/>
+        </navPoint>
+        <navPoint id="navPoint-716" playOrder="716">
+          <navLabel>
+            <text>II. El respeto de la dignidad de las personas</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_707"/>
+        </navPoint>
+        <navPoint id="navPoint-717" playOrder="717">
+          <navLabel>
+            <text>El respeto del alma del prójimo: el escándalo</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_708"/>
+        </navPoint>
+        <navPoint id="navPoint-718" playOrder="718">
+          <navLabel>
+            <text>El respeto de la salud</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_709"/>
+        </navPoint>
+        <navPoint id="navPoint-719" playOrder="719">
+          <navLabel>
+            <text>El respeto de la persona y la investigación científica</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_710"/>
+        </navPoint>
+        <navPoint id="navPoint-720" playOrder="720">
+          <navLabel>
+            <text>El respeto de la integridad corporal</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_711"/>
+        </navPoint>
+        <navPoint id="navPoint-721" playOrder="721">
+          <navLabel>
+            <text>El respeto a los muertos</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_712"/>
+        </navPoint>
+        <navPoint id="navPoint-722" playOrder="722">
+          <navLabel>
+            <text>III. La defensa de la paz</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_713"/>
+        </navPoint>
+        <navPoint id="navPoint-723" playOrder="723">
+          <navLabel>
+            <text>La paz</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_714"/>
+        </navPoint>
+        <navPoint id="navPoint-724" playOrder="724">
+          <navLabel>
+            <text>Evitar la guerra</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_715"/>
+        </navPoint>
+        <navPoint id="navPoint-725" playOrder="725">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a5_sp.html#toc_716"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-726" playOrder="726">
+        <navLabel>
+          <text>ARTÍCULO 6: EL SEXTO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a6_sp.html"/>
+        <navPoint id="navPoint-727" playOrder="727">
+          <navLabel>
+            <text>I. “Hombre y mujer los creó…”</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_718"/>
+        </navPoint>
+        <navPoint id="navPoint-728" playOrder="728">
+          <navLabel>
+            <text>II. La vocación a la castidad</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_719"/>
+        </navPoint>
+        <navPoint id="navPoint-729" playOrder="729">
+          <navLabel>
+            <text>La integridad de la persona</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_720"/>
+        </navPoint>
+        <navPoint id="navPoint-730" playOrder="730">
+          <navLabel>
+            <text>La integridad del don de sí</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_721"/>
+        </navPoint>
+        <navPoint id="navPoint-731" playOrder="731">
+          <navLabel>
+            <text>Los diversos regímenes de la castidad</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_722"/>
+        </navPoint>
+        <navPoint id="navPoint-732" playOrder="732">
+          <navLabel>
+            <text>Las ofensas a la castidad</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_723"/>
+        </navPoint>
+        <navPoint id="navPoint-733" playOrder="733">
+          <navLabel>
+            <text>Castidad y homosexualidad</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_724"/>
+        </navPoint>
+        <navPoint id="navPoint-734" playOrder="734">
+          <navLabel>
+            <text>III. El amor de los esposos</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_725"/>
+        </navPoint>
+        <navPoint id="navPoint-735" playOrder="735">
+          <navLabel>
+            <text>La fidelidad conyugal</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_726"/>
+        </navPoint>
+        <navPoint id="navPoint-736" playOrder="736">
+          <navLabel>
+            <text>La fecundidad del matrimonio</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_727"/>
+        </navPoint>
+        <navPoint id="navPoint-737" playOrder="737">
+          <navLabel>
+            <text>El don del hijo</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_728"/>
+        </navPoint>
+        <navPoint id="navPoint-738" playOrder="738">
+          <navLabel>
+            <text>IV. Las ofensas a la dignidad del matrimonio</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_729"/>
+        </navPoint>
+        <navPoint id="navPoint-739" playOrder="739">
+          <navLabel>
+            <text>El divorcio</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_730"/>
+        </navPoint>
+        <navPoint id="navPoint-740" playOrder="740">
+          <navLabel>
+            <text>Otras ofensas a la dignidad del matrimonio</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_731"/>
+        </navPoint>
+        <navPoint id="navPoint-741" playOrder="741">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a6_sp.html#toc_732"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-742" playOrder="742">
+        <navLabel>
+          <text>ARTÍCULO 7: EL SÉPTIMO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a7_sp.html"/>
+        <navPoint id="navPoint-743" playOrder="743">
+          <navLabel>
+            <text>I. El destino universal y la propiedad privada de los bienes</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_734"/>
+        </navPoint>
+        <navPoint id="navPoint-744" playOrder="744">
+          <navLabel>
+            <text>II. El respeto de las personas y sus bienes</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_735"/>
+        </navPoint>
+        <navPoint id="navPoint-745" playOrder="745">
+          <navLabel>
+            <text>El respeto de los bienes ajenos</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_736"/>
+        </navPoint>
+        <navPoint id="navPoint-746" playOrder="746">
+          <navLabel>
+            <text>El respeto de la integridad de la creación</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_737"/>
+        </navPoint>
+        <navPoint id="navPoint-747" playOrder="747">
+          <navLabel>
+            <text>III. La doctrina social de la Iglesia</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_738"/>
+        </navPoint>
+        <navPoint id="navPoint-748" playOrder="748">
+          <navLabel>
+            <text>IV. Actividad económica y justicia social</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_739"/>
+        </navPoint>
+        <navPoint id="navPoint-749" playOrder="749">
+          <navLabel>
+            <text>V. Justicia y solidaridad entre las naciones</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_740"/>
+        </navPoint>
+        <navPoint id="navPoint-750" playOrder="750">
+          <navLabel>
+            <text>VI. El amor de los pobres</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_741"/>
+        </navPoint>
+        <navPoint id="navPoint-751" playOrder="751">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a7_sp.html#toc_742"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-752" playOrder="752">
+        <navLabel>
+          <text>ARTÍCULO 8: EL OCTAVO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a8_sp.html"/>
+        <navPoint id="navPoint-753" playOrder="753">
+          <navLabel>
+            <text>I. Vivir en la verdad</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_744"/>
+        </navPoint>
+        <navPoint id="navPoint-754" playOrder="754">
+          <navLabel>
+            <text>II. “Dar testimonio de la verdad”</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_745"/>
+        </navPoint>
+        <navPoint id="navPoint-755" playOrder="755">
+          <navLabel>
+            <text>III. Ofensas a la verdad</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_746"/>
+        </navPoint>
+        <navPoint id="navPoint-756" playOrder="756">
+          <navLabel>
+            <text>IV. El respeto a la verdad</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_747"/>
+        </navPoint>
+        <navPoint id="navPoint-757" playOrder="757">
+          <navLabel>
+            <text>V. El uso de los medios de comunicación social</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_748"/>
+        </navPoint>
+        <navPoint id="navPoint-758" playOrder="758">
+          <navLabel>
+            <text>VI. Verdad, belleza y arte sacro</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_749"/>
+        </navPoint>
+        <navPoint id="navPoint-759" playOrder="759">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a8_sp.html#toc_750"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-760" playOrder="760">
+        <navLabel>
+          <text>ARTÍCULO 9: EL NOVENO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a9_sp.html"/>
+        <navPoint id="navPoint-761" playOrder="761">
+          <navLabel>
+            <text>I. La purificación del corazón</text>
+          </navLabel>
+          <content src="p3s2c2a9_sp.html#toc_752"/>
+        </navPoint>
+        <navPoint id="navPoint-762" playOrder="762">
+          <navLabel>
+            <text>II. El combate por la pureza</text>
+          </navLabel>
+          <content src="p3s2c2a9_sp.html#toc_753"/>
+        </navPoint>
+        <navPoint id="navPoint-763" playOrder="763">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a9_sp.html#toc_754"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-764" playOrder="764">
+        <navLabel>
+          <text>ARTÍCULO 10: EL DÉCIMO MANDAMIENTO</text>
+        </navLabel>
+        <content src="p3s2c2a0_sp.html"/>
+        <navPoint id="navPoint-765" playOrder="765">
+          <navLabel>
+            <text>I. El desorden de la concupiscencia</text>
+          </navLabel>
+          <content src="p3s2c2a0_sp.html#toc_756"/>
+        </navPoint>
+        <navPoint id="navPoint-766" playOrder="766">
+          <navLabel>
+            <text>II. Los deseos del Espíritu</text>
+          </navLabel>
+          <content src="p3s2c2a0_sp.html#toc_757"/>
+        </navPoint>
+        <navPoint id="navPoint-767" playOrder="767">
+          <navLabel>
+            <text>III. La pobreza de corazón</text>
+          </navLabel>
+          <content src="p3s2c2a0_sp.html#toc_758"/>
+        </navPoint>
+        <navPoint id="navPoint-768" playOrder="768">
+          <navLabel>
+            <text>IV. “Quiero ver a Dios”</text>
+          </navLabel>
+          <content src="p3s2c2a0_sp.html#toc_759"/>
+        </navPoint>
+        <navPoint id="navPoint-769" playOrder="769">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p3s2c2a0_sp.html#toc_760"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-770" playOrder="770">
+      <navLabel>
+        <text>CUARTA PARTE: LA ORACIÓN CRISTIANA</text>
+      </navLabel>
+      <content src="p4s1_sp.html"/>
+    <navPoint id="navPoint-771" playOrder="771">
+      <navLabel>
+        <text>  PRIMERA SECCIÓN: LA ORACIÓN EN LA VIDA CRISTIANA</text>
+      </navLabel>
+      <content src="p4s1_sp.html#toc_762"/>
+        <navPoint id="navPoint-772" playOrder="772">
+          <navLabel>
+            <text>¿Qué es la oración?</text>
+          </navLabel>
+          <content src="p4s1_sp.html#toc_763"/>
+        </navPoint>
+        <navPoint id="navPoint-773" playOrder="773">
+          <navLabel>
+            <text>La oración como don de Dios</text>
+          </navLabel>
+          <content src="p4s1_sp.html#toc_764"/>
+        </navPoint>
+        <navPoint id="navPoint-774" playOrder="774">
+          <navLabel>
+            <text>La oración como Alianza</text>
+          </navLabel>
+          <content src="p4s1_sp.html#toc_765"/>
+        </navPoint>
+        <navPoint id="navPoint-775" playOrder="775">
+          <navLabel>
+            <text>La oración como comunión</text>
+          </navLabel>
+          <content src="p4s1_sp.html#toc_766"/>
+        </navPoint>
+      <navPoint id="navPoint-776" playOrder="776">
+        <navLabel>
+          <text>    CAPÍTULO PRIMERO: LA REVELACIÓN DE LA ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c1_sp.html"/>
+        <navPoint id="navPoint-777" playOrder="777">
+          <navLabel>
+            <text>Vocación universal a la oración</text>
+          </navLabel>
+          <content src="p4s1c1_sp.html#toc_768"/>
+        </navPoint>
+      <navPoint id="navPoint-778" playOrder="778">
+        <navLabel>
+          <text>ARTÍCULO 1: EN EL ANTIGUO TESTAMENTO</text>
+        </navLabel>
+        <content src="p4s1c1a1_sp.html"/>
+        <navPoint id="navPoint-779" playOrder="779">
+          <navLabel>
+            <text>La creación, fuente de la oración</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_770"/>
+        </navPoint>
+        <navPoint id="navPoint-780" playOrder="780">
+          <navLabel>
+            <text>La Promesa y la oración de la fe</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_771"/>
+        </navPoint>
+        <navPoint id="navPoint-781" playOrder="781">
+          <navLabel>
+            <text>Moisés y la oración del mediador</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_772"/>
+        </navPoint>
+        <navPoint id="navPoint-782" playOrder="782">
+          <navLabel>
+            <text>David y la oración del rey</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_773"/>
+        </navPoint>
+        <navPoint id="navPoint-783" playOrder="783">
+          <navLabel>
+            <text>Elías, los profetas y la conversión del corazón</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_774"/>
+        </navPoint>
+        <navPoint id="navPoint-784" playOrder="784">
+          <navLabel>
+            <text>Los Salmos, oración de la asamblea</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_775"/>
+        </navPoint>
+        <navPoint id="navPoint-785" playOrder="785">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c1a1_sp.html#toc_776"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-786" playOrder="786">
+        <navLabel>
+          <text>ARTÍCULO 2: EN LA PLENITUD DE LOS TIEMPOS</text>
+        </navLabel>
+        <content src="p4s1c1a2_sp.html"/>
+        <navPoint id="navPoint-787" playOrder="787">
+          <navLabel>
+            <text>Jesús ora</text>
+          </navLabel>
+          <content src="p4s1c1a2_sp.html#toc_778"/>
+        </navPoint>
+        <navPoint id="navPoint-788" playOrder="788">
+          <navLabel>
+            <text>Jesús enseña a orar</text>
+          </navLabel>
+          <content src="p4s1c1a2_sp.html#toc_779"/>
+        </navPoint>
+        <navPoint id="navPoint-789" playOrder="789">
+          <navLabel>
+            <text>Jesús escucha la oración</text>
+          </navLabel>
+          <content src="p4s1c1a2_sp.html#toc_780"/>
+        </navPoint>
+        <navPoint id="navPoint-790" playOrder="790">
+          <navLabel>
+            <text>La oración de la Virgen María</text>
+          </navLabel>
+          <content src="p4s1c1a2_sp.html#toc_781"/>
+        </navPoint>
+        <navPoint id="navPoint-791" playOrder="791">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c1a2_sp.html#toc_782"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-792" playOrder="792">
+        <navLabel>
+          <text>ARTÍCULO 3: EN EL TIEMPO DE LA IGLESIA</text>
+        </navLabel>
+        <content src="p4s1c1a3_sp.html"/>
+        <navPoint id="navPoint-793" playOrder="793">
+          <navLabel>
+            <text>I. La bendición y la adoración</text>
+          </navLabel>
+          <content src="p4s1c1a3_sp.html#toc_784"/>
+        </navPoint>
+        <navPoint id="navPoint-794" playOrder="794">
+          <navLabel>
+            <text>II. La oración de petición</text>
+          </navLabel>
+          <content src="p4s1c1a3_sp.html#toc_785"/>
+        </navPoint>
+        <navPoint id="navPoint-795" playOrder="795">
+          <navLabel>
+            <text>III. La oración de intercesión</text>
+          </navLabel>
+          <content src="p4s1c1a3_sp.html#toc_786"/>
+        </navPoint>
+        <navPoint id="navPoint-796" playOrder="796">
+          <navLabel>
+            <text>IV. La oración de acción de gracias</text>
+          </navLabel>
+          <content src="p4s1c1a3_sp.html#toc_787"/>
+        </navPoint>
+        <navPoint id="navPoint-797" playOrder="797">
+          <navLabel>
+            <text>V. La oración de alabanza</text>
+          </navLabel>
+          <content src="p4s1c1a3_sp.html#toc_788"/>
+        </navPoint>
+        <navPoint id="navPoint-798" playOrder="798">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c1a3_sp.html#toc_789"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-799" playOrder="799">
+        <navLabel>
+          <text>    CAPÍTULO SEGUNDO: LA TRADICIÓN DE LA ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c2_sp.html"/>
+      <navPoint id="navPoint-800" playOrder="800">
+        <navLabel>
+          <text>ARTÍCULO 1: LAS FUENTES DE LA ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c2a1_sp.html"/>
+        <navPoint id="navPoint-801" playOrder="801">
+          <navLabel>
+            <text>La Palabra de Dios</text>
+          </navLabel>
+          <content src="p4s1c2a1_sp.html#toc_792"/>
+        </navPoint>
+        <navPoint id="navPoint-802" playOrder="802">
+          <navLabel>
+            <text>La Liturgia de la Iglesia</text>
+          </navLabel>
+          <content src="p4s1c2a1_sp.html#toc_793"/>
+        </navPoint>
+        <navPoint id="navPoint-803" playOrder="803">
+          <navLabel>
+            <text>Las virtudes teologales</text>
+          </navLabel>
+          <content src="p4s1c2a1_sp.html#toc_794"/>
+        </navPoint>
+        <navPoint id="navPoint-804" playOrder="804">
+          <navLabel>
+            <text>“Hoy”</text>
+          </navLabel>
+          <content src="p4s1c2a1_sp.html#toc_795"/>
+        </navPoint>
+        <navPoint id="navPoint-805" playOrder="805">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c2a1_sp.html#toc_796"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-806" playOrder="806">
+        <navLabel>
+          <text>ARTÍCULO 2: EL CAMINO DE LA ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c2a2_sp.html"/>
+        <navPoint id="navPoint-807" playOrder="807">
+          <navLabel>
+            <text>La oración al Padre</text>
+          </navLabel>
+          <content src="p4s1c2a2_sp.html#toc_798"/>
+        </navPoint>
+        <navPoint id="navPoint-808" playOrder="808">
+          <navLabel>
+            <text>La oración a Jesús</text>
+          </navLabel>
+          <content src="p4s1c2a2_sp.html#toc_799"/>
+        </navPoint>
+        <navPoint id="navPoint-809" playOrder="809">
+          <navLabel>
+            <text>“Ven, Espíritu Santo”</text>
+          </navLabel>
+          <content src="p4s1c2a2_sp.html#toc_800"/>
+        </navPoint>
+        <navPoint id="navPoint-810" playOrder="810">
+          <navLabel>
+            <text>En comunión con la santa Madre de Dios</text>
+          </navLabel>
+          <content src="p4s1c2a2_sp.html#toc_801"/>
+        </navPoint>
+        <navPoint id="navPoint-811" playOrder="811">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c2a2_sp.html#toc_802"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-812" playOrder="812">
+        <navLabel>
+          <text>ARTÍCULO 3: MAESTROS Y LUGARES DE ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c2a3_sp.html"/>
+        <navPoint id="navPoint-813" playOrder="813">
+          <navLabel>
+            <text>Una pléyade de testigos</text>
+          </navLabel>
+          <content src="p4s1c2a3_sp.html#toc_804"/>
+        </navPoint>
+        <navPoint id="navPoint-814" playOrder="814">
+          <navLabel>
+            <text>Servidores de la oración</text>
+          </navLabel>
+          <content src="p4s1c2a3_sp.html#toc_805"/>
+        </navPoint>
+        <navPoint id="navPoint-815" playOrder="815">
+          <navLabel>
+            <text>Lugares favorables para la oración</text>
+          </navLabel>
+          <content src="p4s1c2a3_sp.html#toc_806"/>
+        </navPoint>
+        <navPoint id="navPoint-816" playOrder="816">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c2a3_sp.html#toc_807"/>
+        </navPoint>
+      </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-817" playOrder="817">
+        <navLabel>
+          <text>    CAPÍTULO TERCERO: LA VIDA DE ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c3_sp.html"/>
+      <navPoint id="navPoint-818" playOrder="818">
+        <navLabel>
+          <text>ARTÍCULO 1: EXPRESIONES DE LA ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c3a1_sp.html"/>
+        <navPoint id="navPoint-819" playOrder="819">
+          <navLabel>
+            <text>I. La oración vocal</text>
+          </navLabel>
+          <content src="p4s1c3a1_sp.html#toc_810"/>
+        </navPoint>
+        <navPoint id="navPoint-820" playOrder="820">
+          <navLabel>
+            <text>II. La meditación</text>
+          </navLabel>
+          <content src="p4s1c3a1_sp.html#toc_811"/>
+        </navPoint>
+        <navPoint id="navPoint-821" playOrder="821">
+          <navLabel>
+            <text>III. La oración contemplativa</text>
+          </navLabel>
+          <content src="p4s1c3a1_sp.html#toc_812"/>
+        </navPoint>
+        <navPoint id="navPoint-822" playOrder="822">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c3a1_sp.html#toc_813"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-823" playOrder="823">
+        <navLabel>
+          <text>ARTÍCULO 2: EL COMBATE DE LA ORACIÓN</text>
+        </navLabel>
+        <content src="p4s1c3a2_sp.html"/>
+        <navPoint id="navPoint-824" playOrder="824">
+          <navLabel>
+            <text>I. Obstáculos para la oración</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_815"/>
+        </navPoint>
+        <navPoint id="navPoint-825" playOrder="825">
+          <navLabel>
+            <text>II. La humilde vigilancia de la oración</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_816"/>
+        </navPoint>
+        <navPoint id="navPoint-826" playOrder="826">
+          <navLabel>
+            <text>Frente a las dificultades de la oración</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_817"/>
+        </navPoint>
+        <navPoint id="navPoint-827" playOrder="827">
+          <navLabel>
+            <text>Frente a las tentaciones en la oración</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_818"/>
+        </navPoint>
+        <navPoint id="navPoint-828" playOrder="828">
+          <navLabel>
+            <text>III. La confianza filial</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_819"/>
+        </navPoint>
+        <navPoint id="navPoint-829" playOrder="829">
+          <navLabel>
+            <text>Queja por la oración no escuchada</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_820"/>
+        </navPoint>
+        <navPoint id="navPoint-830" playOrder="830">
+          <navLabel>
+            <text>Para que nuestra oración sea eficaz</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_821"/>
+        </navPoint>
+        <navPoint id="navPoint-831" playOrder="831">
+          <navLabel>
+            <text>IV. Perseverar en el amor</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_822"/>
+        </navPoint>
+        <navPoint id="navPoint-832" playOrder="832">
+          <navLabel>
+            <text>La oración en la hora de Jesús</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_823"/>
+        </navPoint>
+        <navPoint id="navPoint-833" playOrder="833">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s1c3a2_sp.html#toc_824"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-834" playOrder="834">
+      <navLabel>
+        <text>  SEGUNDA SECCIÓN: LA ORACIÓN DEL SEÑOR: “PADRE NUESTRO”</text>
+      </navLabel>
+      <content src="p4s2_sp.html"/>
+      <navPoint id="navPoint-835" playOrder="835">
+        <navLabel>
+          <text>ARTÍCULO 1: RESUMEN DE TODO EL EVANGELIO</text>
+        </navLabel>
+        <content src="p4s2a1_sp.html"/>
+        <navPoint id="navPoint-836" playOrder="836">
+          <navLabel>
+            <text>I. Corazón de las Sagradas Escrituras</text>
+          </navLabel>
+          <content src="p4s2a1_sp.html#toc_827"/>
+        </navPoint>
+        <navPoint id="navPoint-837" playOrder="837">
+          <navLabel>
+            <text>II. “La oración del Señor”</text>
+          </navLabel>
+          <content src="p4s2a1_sp.html#toc_828"/>
+        </navPoint>
+        <navPoint id="navPoint-838" playOrder="838">
+          <navLabel>
+            <text>III. Oración de la Iglesia</text>
+          </navLabel>
+          <content src="p4s2a1_sp.html#toc_829"/>
+        </navPoint>
+        <navPoint id="navPoint-839" playOrder="839">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s2a1_sp.html#toc_830"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-840" playOrder="840">
+        <navLabel>
+          <text>ARTÍCULO 2: “PADRE NUESTRO QUE ESTÁS EN EL CIELO”</text>
+        </navLabel>
+        <content src="p4s2a2_sp.html"/>
+        <navPoint id="navPoint-841" playOrder="841">
+          <navLabel>
+            <text>I. Acercarse a Él con toda confianza</text>
+          </navLabel>
+          <content src="p4s2a2_sp.html#toc_832"/>
+        </navPoint>
+        <navPoint id="navPoint-842" playOrder="842">
+          <navLabel>
+            <text>II. “¡Padre!”</text>
+          </navLabel>
+          <content src="p4s2a2_sp.html#toc_833"/>
+        </navPoint>
+        <navPoint id="navPoint-843" playOrder="843">
+          <navLabel>
+            <text>III. Padre “nuestro”</text>
+          </navLabel>
+          <content src="p4s2a2_sp.html#toc_834"/>
+        </navPoint>
+        <navPoint id="navPoint-844" playOrder="844">
+          <navLabel>
+            <text>IV. “Que estás en el cielo”</text>
+          </navLabel>
+          <content src="p4s2a2_sp.html#toc_835"/>
+        </navPoint>
+        <navPoint id="navPoint-845" playOrder="845">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s2a2_sp.html#toc_836"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint-846" playOrder="846">
+        <navLabel>
+          <text>ARTÍCULO 3: LAS SIETE PETICIONES</text>
+        </navLabel>
+        <content src="p4s2a3_sp.html"/>
+        <navPoint id="navPoint-847" playOrder="847">
+          <navLabel>
+            <text>I. «Santificado sea tu nombre»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_838"/>
+        </navPoint>
+        <navPoint id="navPoint-848" playOrder="848">
+          <navLabel>
+            <text>II. Venga a nosotros tu Reino</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_839"/>
+        </navPoint>
+        <navPoint id="navPoint-849" playOrder="849">
+          <navLabel>
+            <text>III. «Hágase tu voluntad en la tierra como en el cielo»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_840"/>
+        </navPoint>
+        <navPoint id="navPoint-850" playOrder="850">
+          <navLabel>
+            <text>IV. «Danos hoy nuestro pan de cada día»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_841"/>
+        </navPoint>
+        <navPoint id="navPoint-851" playOrder="851">
+          <navLabel>
+            <text>V. «Perdona nuestras ofensas como también nosotros perdonamos a los que nos ofenden»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_842"/>
+        </navPoint>
+        <navPoint id="navPoint-852" playOrder="852">
+          <navLabel>
+            <text>«Perdona nuestras ofensas»…</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_843"/>
+        </navPoint>
+        <navPoint id="navPoint-853" playOrder="853">
+          <navLabel>
+            <text>…«como también nosotros perdonamos a los que nos ofenden»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_844"/>
+        </navPoint>
+        <navPoint id="navPoint-854" playOrder="854">
+          <navLabel>
+            <text>VI. «No nos dejes caer en la tentación»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_845"/>
+        </navPoint>
+        <navPoint id="navPoint-855" playOrder="855">
+          <navLabel>
+            <text>VII. «Y Líbranos del mal»</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_846"/>
+        </navPoint>
+        <navPoint id="navPoint-856" playOrder="856">
+          <navLabel>
+            <text>La doxología final</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_847"/>
+        </navPoint>
+        <navPoint id="navPoint-857" playOrder="857">
+          <navLabel>
+            <text>Resumen</text>
+          </navLabel>
+          <content src="p4s2a3_sp.html#toc_848"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    </navPoint>
+
+        <navPoint id="navPoint-858" playOrder="858">
+          <navLabel>
+            <text>NOTAS</text>
+          </navLabel>
+          <content src="p0-prologue_sp_nt.html"/>
+        </navPoint>
+
+
+        <navPoint id="navPoint-859" playOrder="859">
+          <navLabel>
+            <text>APÉNDICES</text>
+          </navLabel>
+          <content src="aposcons_sp.html"/>
+        <navPoint id="navPoint-860" playOrder="860">
+          <navLabel>
+            <text>  Constitución apostólica «Fidei depositum»</text>
+          </navLabel>
+          <content src="aposcons_sp.html#start"/>
+        </navPoint>
+        <navPoint id="navPoint-861" playOrder="861">
+          <navLabel>
+            <text>  Carta apostólica «Laetamur magnopere»</text>
+          </navLabel>
+          <content src="lettera-apost_sp.html"/>
+        </navPoint>
+        <navPoint id="navPoint-862" playOrder="862">
+          <navLabel>
+            <text>  Orden alfabético de los libros sagrados</text>
+          </navLabel>
+          <content src="Siglas-Escrituras.html"/>
+        </navPoint>
+        <navPoint id="navPoint-863" playOrder="863">
+          <navLabel>
+            <text>  Orden alfabético de los documentos de la iglesia</text>
+          </navLabel>
+          <content src="Siglas-Magisterio.html"/>
+        </navPoint>    
+        </navPoint>    
+
+        <navPoint id="navPoint-864" playOrder="864">
+          <navLabel>
+            <text>COMPARTIR…</text>
+          </navLabel>
+          <content src="e1.html"/>
+        </navPoint>
+  </navMap>
+</ncx>
